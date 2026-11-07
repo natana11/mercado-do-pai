@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#fbf7ef">
+<title>Mercado do Pai</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icone-192.png">
+<link rel="apple-touch-icon" href="icone-192.png">
+<link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+<header class="topo">
+  <h1>🛒 Mercado do Pai</h1>
+  <p id="data" class="data">Carregando preços…</p>
+</header>
+<main id="conteudo" aria-live="polite"></main>
+<dialog id="comparar" aria-labelledby="c-nome">
+  <div class="c-icone" id="c-icone"></div>
+  <h2 id="c-nome"></h2>
+  <div id="c-precos" class="c-precos"></div>
+  <p id="c-frase" class="c-frase"></p>
+  <button id="c-peguei" class="botao grande verde"></button>
+  <button id="c-fechar" class="botao grande claro">Fechar</button>
+</dialog>
+<script src="logica.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

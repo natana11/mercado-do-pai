@@ -1,0 +1,688 @@
+{
+ "atualizado": "2026-11-07",
+ "mercados": {
+  "combo": {
+   "nome": "Combo",
+   "cor": "#c0392b"
+  },
+  "fatima": {
+   "nome": "Fátima",
+   "cor": "#1f6f43"
+  }
+ },
+ "itens": [
+  {
+   "id": "acucar",
+   "nome": "Açúcar (pacote)",
+   "icone": "🍬",
+   "precos": {
+    "combo": {
+     "por": 16.56
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "trigo-grande",
+   "nome": "Farinha de trigo Orquídea (pacote grande)",
+   "icone": "🌾",
+   "precos": {
+    "combo": {
+     "por": 16.9
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "trigo-1kg",
+   "nome": "Farinha de trigo Orquídea 1 kg",
+   "icone": "🌾",
+   "precos": {
+    "fatima": {
+     "por": 3.68,
+     "de": 3.98
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "margarina-grande",
+   "nome": "Margarina Qualy (pote grande)",
+   "icone": "🧈",
+   "precos": {
+    "combo": {
+     "por": 14.88
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "margarina-cremosa",
+   "nome": "Margarina Qualy cremosa",
+   "icone": "🧈",
+   "precos": {
+    "combo": {
+     "por": 7.48
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "cafe-coamo",
+   "nome": "Café Coamo em grão",
+   "icone": "☕",
+   "precos": {
+    "combo": {
+     "por": 63.9
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "cafe-3c",
+   "nome": "Café 3 Corações 500 g",
+   "icone": "☕",
+   "precos": {
+    "fatima": {
+     "por": 28.98
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "linguica",
+   "nome": "Linguiça Sadia churrasco (pacote)",
+   "icone": "🌭",
+   "precos": {
+    "combo": {
+     "por": 69.9
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "batata-frita",
+   "nome": "Batata frita congelada",
+   "icone": "🍟",
+   "precos": {
+    "combo": {
+     "por": 16.9
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "manga",
+   "nome": "Manga (kg)",
+   "icone": "🥭",
+   "precos": {
+    "combo": {
+     "por": 5.68
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "milho",
+   "nome": "Milho verde Fugini",
+   "icone": "🌽",
+   "precos": {
+    "combo": {
+     "por": 2.28,
+     "de": 2.48
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "queijo",
+   "nome": "Queijo mussarela fatiado",
+   "icone": "🧀",
+   "precos": {
+    "combo": {
+     "por": 13.88
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "molho",
+   "nome": "Molho de tomate (sachê)",
+   "icone": "🍅",
+   "precos": {
+    "combo": {
+     "por": 1.18,
+     "de": 1.25
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "bombril",
+   "nome": "Bombril",
+   "icone": "🧽",
+   "precos": {
+    "combo": {
+     "por": 2.38
+    }
+   },
+   "na_lista": false
+  },
+  {
+   "id": "sabao-po",
+   "nome": "Sabão em pó Omo (caixa)",
+   "icone": "🧺",
+   "precos": {
+    "combo": {
+     "por": 16.98,
+     "de": 18.98
+    },
+    "fatima": {
+     "por": 18.99,
+     "de": 21.99
+    }
+   },
+   "na_lista": false
+  },
+  {
+   "id": "sabonete",
+   "nome": "Sabonete Francis 85 g",
+   "icone": "🧼",
+   "precos": {
+    "fatima": {
+     "por": 2.98
+    }
+   },
+   "na_lista": false
+  },
+  {
+   "id": "pasta-limpeza",
+   "nome": "Pasta de limpeza Cristal 500 g",
+   "icone": "🧴",
+   "precos": {
+    "fatima": {
+     "por": 7.69
+    }
+   },
+   "na_lista": false
+  },
+  {
+   "id": "palito",
+   "nome": "Palito de dente",
+   "icone": "🦷",
+   "precos": {
+    "fatima": {
+     "por": 1.29
+    }
+   },
+   "na_lista": false
+  },
+  {
+   "id": "creme-dental",
+   "nome": "Creme dental Sorriso",
+   "icone": "🦷",
+   "precos": {
+    "fatima": {
+     "por": 3.28
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "espaguete",
+   "nome": "Espaguete Parati 400 g",
+   "icone": "🍝",
+   "precos": {
+    "fatima": {
+     "por": 2.97,
+     "de": 3.47
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "creme-leite",
+   "nome": "Creme de leite Tirol",
+   "icone": "🥛",
+   "precos": {
+    "fatima": {
+     "por": 2.99
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "leite-cond",
+   "nome": "Leite condensado Piracanjuba",
+   "icone": "🥫",
+   "precos": {
+    "fatima": {
+     "por": 4.98,
+     "de": 5.48
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "zeze",
+   "nome": "Biscoito Zezé Luna",
+   "icone": "🍪",
+   "precos": {
+    "fatima": {
+     "por": 7.98
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "cookies",
+   "nome": "Cookies Bauducco",
+   "icone": "🍪",
+   "precos": {
+    "fatima": {
+     "por": 2.5,
+     "de": 2.98
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "beterraba",
+   "nome": "Beterraba (kg)",
+   "icone": "🥗",
+   "precos": {
+    "fatima": {
+     "por": 2.67,
+     "de": 3.17
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "chuchu",
+   "nome": "Chuchu (kg)",
+   "icone": "🥒",
+   "precos": {
+    "fatima": {
+     "por": 1.99,
+     "de": 2.99
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "batata",
+   "nome": "Batata inglesa (kg)",
+   "icone": "🥔",
+   "precos": {
+    "fatima": {
+     "por": 2.67,
+     "de": 3.17
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "pringles",
+   "nome": "Batata Pringles",
+   "icone": "🥔",
+   "precos": {
+    "fatima": {
+     "por": 9.88,
+     "de": 10.88
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "papel",
+   "nome": "Papel higiênico (12 rolos)",
+   "icone": "🧻",
+   "precos": {
+    "fatima": {
+     "por": 17.98
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "pipoca",
+   "nome": "Milho de pipoca Caldão",
+   "icone": "🍿",
+   "precos": {
+    "fatima": {
+     "por": 3.34,
+     "de": 3.79
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "oleo",
+   "nome": "Óleo de soja Coamo 900 ml",
+   "icone": "🧴",
+   "precos": {
+    "fatima": {
+     "por": 6.47,
+     "de": 6.97
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "vinagre",
+   "nome": "Vinagre",
+   "icone": "🍶",
+   "precos": {
+    "fatima": {
+     "por": 2.65
+    }
+   },
+   "na_lista": false
+  },
+  {
+   "id": "rosca",
+   "nome": "Rosca de polvilho (kg)",
+   "icone": "🥯",
+   "precos": {
+    "fatima": {
+     "por": 30.85
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "coxinha",
+   "nome": "Coxinha (cada)",
+   "icone": "🍗",
+   "precos": {
+    "fatima": {
+     "por": 0.99,
+     "de": 1.99
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "mandioca",
+   "nome": "Farinha de mandioca 1 kg",
+   "icone": "🌾",
+   "precos": {
+    "fatima": {
+     "por": 7.99
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "sal",
+   "nome": "Sal Miramar 1 kg",
+   "icone": "🧂",
+   "precos": {
+    "fatima": {
+     "por": 2.98
+    }
+   },
+   "na_lista": false
+  },
+  {
+   "id": "feijao",
+   "nome": "Feijão preto Caldão 1 kg",
+   "icone": "🥣",
+   "precos": {
+    "fatima": {
+     "por": 8.49
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "pao",
+   "nome": "Pão francês (kg)",
+   "icone": "🍞",
+   "precos": {
+    "fatima": {
+     "por": 14.9
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "farinha-milho",
+   "nome": "Farinha de milho 1 kg",
+   "icone": "🌽",
+   "precos": {
+    "fatima": {
+     "por": 4.99
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "maionese",
+   "nome": "Maionese Heinz 400 g",
+   "icone": "🥫",
+   "precos": {
+    "fatima": {
+     "por": 9.98,
+     "de": 10.98
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "ketchup",
+   "nome": "Ketchup Hemmer 750 g",
+   "icone": "🍅",
+   "precos": {
+    "fatima": {
+     "por": 13.88,
+     "de": 14.88
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "pimenta",
+   "nome": "Pimenta do reino",
+   "icone": "🌶️",
+   "precos": {
+    "fatima": {
+     "por": 9.98
+    }
+   },
+   "na_lista": false
+  },
+  {
+   "id": "jucil",
+   "nome": "Biscoito salgado Jucil",
+   "icone": "🍪",
+   "precos": {
+    "fatima": {
+     "por": 9.98
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "cabelo-anjo",
+   "nome": "Macarrão cabelo de anjo",
+   "icone": "🍝",
+   "precos": {
+    "fatima": {
+     "por": 7.98
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "iogurte-pote",
+   "nome": "Iogurte Tirol pote 400 g",
+   "icone": "🥛",
+   "precos": {
+    "fatima": {
+     "por": 8.98
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "iogurte-saco",
+   "nome": "Iogurte Tirol saco 900 g",
+   "icone": "🥛",
+   "precos": {
+    "fatima": {
+     "por": 9.98
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "talco",
+   "nome": "Talco para os pés",
+   "icone": "🦶",
+   "precos": {
+    "fatima": {
+     "por": 14.98
+    }
+   },
+   "na_lista": false
+  },
+  {
+   "id": "banana",
+   "nome": "Banana caturra (kg)",
+   "icone": "🍌",
+   "precos": {
+    "fatima": {
+     "por": 1.99,
+     "de": 2.99
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "isabela",
+   "nome": "Biscoito Isabela Cristal",
+   "icone": "🍪",
+   "precos": {
+    "fatima": {
+     "por": 12.98
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "gillette",
+   "nome": "Carga Gillette Mach3",
+   "icone": "🧔",
+   "precos": {
+    "fatima": {
+     "por": 29.89
+    }
+   },
+   "na_lista": false
+  },
+  {
+   "id": "energetico",
+   "nome": "Energético Baly",
+   "icone": "🥤",
+   "precos": {
+    "fatima": {
+     "por": 5.48,
+     "de": 5.98
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "desodorante",
+   "nome": "Desodorante Old Spice",
+   "icone": "🧴",
+   "precos": {
+    "fatima": {
+     "por": 19.98
+    }
+   },
+   "na_lista": false
+  },
+  {
+   "id": "musculo",
+   "nome": "Carne: músculo (kg)",
+   "icone": "🥩",
+   "precos": {
+    "fatima": {
+     "por": 38.9
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "patinho",
+   "nome": "Carne: patinho (kg)",
+   "icone": "🥩",
+   "precos": {
+    "fatima": {
+     "por": 59.9
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "paleta",
+   "nome": "Carne: paleta (kg)",
+   "icone": "🥩",
+   "precos": {
+    "fatima": {
+     "por": 46.9
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "morango",
+   "nome": "Morango (bandeja)",
+   "icone": "🍓",
+   "precos": {
+    "fatima": {
+     "por": 6.98
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "uva",
+   "nome": "Uva (500 g)",
+   "icone": "🍇",
+   "precos": {
+    "fatima": {
+     "por": 8.98
+    }
+   },
+   "na_lista": true
+  },
+  {
+   "id": "banha",
+   "nome": "Banha Cancelier 1 kg",
+   "icone": "🐷",
+   "precos": {
+    "fatima": {
+     "por": 11.98,
+     "de": 12.98
+    }
+   },
+   "na_lista": false
+  },
+  {
+   "id": "leite",
+   "nome": "Leite Amanhecer (cada, no fardo de 12)",
+   "icone": "🥛",
+   "precos": {
+    "fatima": {
+     "por": 3.79,
+     "de": 4.29
+    }
+   },
+   "na_lista": true
+  }
+ ]
+}
