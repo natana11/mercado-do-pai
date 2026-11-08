@@ -1,5 +1,5 @@
 // Funciona sem internet: guarda a casca e os preços; preços tentam a rede primeiro.
-const CACHE = "mercado-v2", CASCA = ["./", "index.html", "estilo.css", "logica.js", "app.js", "precos.json", "manifest.json", "icone-192.png", "icone-512.png"];
+const CACHE = "mercado-v3", CASCA = ["./", "index.html", "estilo.css", "logica.js", "app.js", "precos.json", "ofertas.json", "manifest.json", "icone-192.png", "icone-512.png"];
 self.addEventListener("install", (e) => e.waitUntil(caches.open(CACHE).then((c) => c.addAll(CASCA)).then(() => self.skipWaiting())));
 self.addEventListener("activate", (e) => e.waitUntil(caches.keys().then((ks) => Promise.all(ks.filter((k) => k !== CACHE).map((k) => caches.delete(k)))).then(() => self.clients.claim())));
 self.addEventListener("fetch", (e) => {

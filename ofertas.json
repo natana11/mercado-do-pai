@@ -1,0 +1,535 @@
+{
+ "atualizado": "2026-11-08T17:30:31-03:00",
+ "ofertas": [
+  {
+   "mercado": "fatima",
+   "produto": "Chocolate Barra Nestlé Savoy 1530g",
+   "tipo": "chocolate barra 1530g",
+   "preco": 16.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 17.98 un",
+   "valido_ate": "2026-11-29",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/YPJUUiI3LxAfXPpktCHPW96ocLru76MOCABrmu0d.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Rolinho Wafer Pirulin lata 155g",
+   "tipo": "wafer rolinho 155g",
+   "preco": 24.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 25.98 un",
+   "valido_ate": "2026-11-29",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/YPJUUiI3LxAfXPpktCHPW96ocLru76MOCABrmu0d.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Cerveja Maltin Lata zero 355ml",
+   "tipo": "cerveja lata 355ml",
+   "preco": 11.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 12.98 un",
+   "valido_ate": "2026-11-29",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/YPJUUiI3LxAfXPpktCHPW96ocLru76MOCABrmu0d.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Chocolate Tablete Nestlé Carre ao leite 100g",
+   "tipo": "chocolate tablete 100g",
+   "preco": 15.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 16.48 un",
+   "valido_ate": "2026-11-29",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/YPJUUiI3LxAfXPpktCHPW96ocLru76MOCABrmu0d.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Wafer Nestlé Cocosselle coco 50g",
+   "tipo": "wafer coco 50g",
+   "preco": 5.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 6.48 un",
+   "valido_ate": "2026-11-29",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/YPJUUiI3LxAfXPpktCHPW96ocLru76MOCABrmu0d.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Wafer Nestlé Susy Chocolate 50g",
+   "tipo": "wafer chocolate 50g",
+   "preco": 5.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 6.48 un",
+   "valido_ate": "2026-11-29",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/YPJUUiI3LxAfXPpktCHPW96ocLru76MOCABrmu0d.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Chocolate Wafer Nestlé Samba 32g",
+   "tipo": "chocolate wafer 32g",
+   "preco": 5.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 6.48 un",
+   "valido_ate": "2026-11-29",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/YPJUUiI3LxAfXPpktCHPW96ocLru76MOCABrmu0d.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Cerveja Profissa Retornável Brahma 300ml",
+   "tipo": "cerveja garrafa 300ml",
+   "preco": 2.59,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/u4FBGHr9kIhi4zGV7LOtMSpHioyD5kVrADXjv1z1.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Cerveja Corona Extra / Cero sunbrew Lata 350ml",
+   "tipo": "cerveja lata 350ml",
+   "preco": 5.79,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/u4FBGHr9kIhi4zGV7LOtMSpHioyD5kVrADXjv1z1.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Cerveja Stella Artois Long neck 330ml",
+   "tipo": "cerveja garrafa 330ml",
+   "preco": 6.59,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/u4FBGHr9kIhi4zGV7LOtMSpHioyD5kVrADXjv1z1.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Cerveja Brahma Zero Lata 350ml",
+   "tipo": "cerveja lata 350ml",
+   "preco": 3.49,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/u4FBGHr9kIhi4zGV7LOtMSpHioyD5kVrADXjv1z1.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Cerveja Budweiser /Zero Lata 350ml",
+   "tipo": "cerveja lata 350ml",
+   "preco": 5.89,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/u4FBGHr9kIhi4zGV7LOtMSpHioyD5kVrADXjv1z1.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Cerveja Stella Artois Pure Gold Long 330ml",
+   "tipo": "cerveja garrafa 330ml",
+   "preco": 7.29,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/u4FBGHr9kIhi4zGV7LOtMSpHioyD5kVrADXjv1z1.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Cerveja Flying Fish Long 330ml",
+   "tipo": "cerveja garrafa 330ml",
+   "preco": 5.39,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/u4FBGHr9kIhi4zGV7LOtMSpHioyD5kVrADXjv1z1.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Refrigerante BC H2OH 5000ml",
+   "tipo": "refrigerante garrafa 5l",
+   "preco": 4.39,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/u4FBGHr9kIhi4zGV7LOtMSpHioyD5kVrADXjv1z1.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Refrigerante Pepsi Cola pet 1L",
+   "tipo": "refrigerante garrafa 1l",
+   "preco": 4.49,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/u4FBGHr9kIhi4zGV7LOtMSpHioyD5kVrADXjv1z1.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Refrigerante Guaraná Antarctica /Zero pet 2L",
+   "tipo": "refrigerante garrafa 2l",
+   "preco": 9.39,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/u4FBGHr9kIhi4zGV7LOtMSpHioyD5kVrADXjv1z1.png"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Mix de Amendoins Happy Hour 200g",
+   "tipo": "mix de amendoins 200g",
+   "preco": 8.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-15",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-29-10-jpeg-6ae2549c183e0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Damasco Natural Premium Euro Company 150g ou Abacaxi Desidratado Euro Company 10",
+   "tipo": "fruta desidratada premium 100g/150g",
+   "preco": 16.98,
+   "unidade": "cada",
+   "obs": null,
+   "valido_ate": "2026-11-15",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-29-10-jpeg-6ae2549c183e0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Ameixa Seca s/Caroço Euro Company 200g",
+   "tipo": "ameixa seca 200g",
+   "preco": 9.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-15",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-29-10-jpeg-6ae2549c183e0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Frutas Cristaladas Euro Company 200g",
+   "tipo": "frutas cristalizadas 200g",
+   "preco": 3.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-15",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-29-10-jpeg-6ae2549c183e0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Nozes Mariposa ou Pecan Euro Company 100g",
+   "tipo": "noz mariposa ou pecan 100g",
+   "preco": 14.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-15",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-29-10-jpeg-6ae2549c183e0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Uva Passa Escura s/Semente Feliz 100g",
+   "tipo": "uva passa escura sem semente 100g",
+   "preco": 3.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-15",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-29-10-jpeg-6ae2549c183e0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Ameixa Seca s/Caroço Feliz 100g",
+   "tipo": "ameixa seca sem caroço 100g",
+   "preco": 6.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-15",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-29-10-jpeg-6ae2549c183e0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Nozes Inteiras s/Casca Feliz 60g",
+   "tipo": "nozes inteiras sem casca 60g",
+   "preco": 7.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-15",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-29-10-jpeg-6ae2549c183e0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Castanha de Caju Feliz 100g",
+   "tipo": "castanha de caju torrada e salgada 100g",
+   "preco": 16.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-15",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-29-10-jpeg-6ae2549c183e0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Kalanchoe Dobrado Paixões Pote 11",
+   "tipo": "planta vaso 11cm",
+   "preco": 9.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-08",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-06-11-jpeg-6aecdc1ebc8e6.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Poinsétia Pote 6",
+   "tipo": "planta vaso 6cm",
+   "preco": 7.48,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-08",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-06-11-jpeg-6aecdc1ebc8e6.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Poinsétia Pote 14",
+   "tipo": "planta vaso 14cm",
+   "preco": 27.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-08",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-06-11-jpeg-6aecdc1ebc8e6.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Orquídea Phalaenopsis Mini Pote 9 c/2 Hastes",
+   "tipo": "orquidea mini pote 9",
+   "preco": 36.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-08",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-06-11-jpeg-6aecdc1ebc8e6.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Kalanchoe Dobrado Pote 15",
+   "tipo": "kalanchoe pote 15",
+   "preco": 26.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-08",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-06-11-jpeg-6aecdc1ebc8e6.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Tuia Holandesa ou Strickita Pote 14",
+   "tipo": "planta em vaso",
+   "preco": 40.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-08",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-06-11-jpeg-6aecdc1ebc8e6.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Tuia Holandesa Pote 9*",
+   "tipo": "planta em vaso",
+   "preco": 27.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-08",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-06-11-jpeg-6aecdc1ebc8e6.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Ficus Lyrata Pote 17",
+   "tipo": "planta em vaso",
+   "preco": 36.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-08",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-06-11-jpeg-6aecdc1ebc8e6.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Ficus Elástica Variado Pote 17",
+   "tipo": "planta em vaso",
+   "preco": 40.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-08",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-06-11-jpeg-6aecdc1ebc8e6.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Presunto Seara Fatiado 350g",
+   "tipo": "presunto fatiado 350g",
+   "preco": 11.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-12",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/lamina-seara-combo-30-10-jpeg-6ae3aa68d85ff.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Lasanha à Bolonhesa Seara 350g",
+   "tipo": "lasanha 350g",
+   "preco": 6.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-12",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/lamina-seara-combo-30-10-jpeg-6ae3aa68d85ff.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Margarina Doriana 500g",
+   "tipo": "margarina 500g",
+   "preco": 7.97,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-12",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/lamina-seara-combo-30-10-jpeg-6ae3aa68d85ff.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Filé de Peito de Frango à Milanesa Seara 100g",
+   "tipo": "filé frango 100g",
+   "preco": 2.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-12",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/lamina-seara-combo-30-10-jpeg-6ae3aa68d85ff.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Salame Tipo Italiano Seara kg",
+   "tipo": "salame kg",
+   "preco": 59.9,
+   "unidade": "kg",
+   "obs": null,
+   "valido_ate": "2026-11-12",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/lamina-seara-combo-30-10-jpeg-6ae3aa68d85ff.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Lava-roupas em Pó Tixan Leve 4kg Pague 3,6kg",
+   "tipo": "lava roupas em pó 4kg",
+   "preco": 26.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-15",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-1-jpeg-6aecdc06074d5.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Lava-roupas Líquido Tixan Ypê 3l",
+   "tipo": "lava roupas líquido 3l",
+   "preco": 22.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-15",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-1-jpeg-6aecdc06074d5.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Lava-roupas Líquido Aquafast 5l",
+   "tipo": "lava roupas líquido 5l",
+   "preco": 32.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-15",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-1-jpeg-6aecdc06074d5.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Amaciante Ypê 5L",
+   "tipo": "amaciante 5l",
+   "preco": 18.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-15",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-1-jpeg-6aecdc06074d5.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Papel Higienico Mili Soft Air Folha Tripla 20m c/12un",
+   "tipo": "papel higienico 12un",
+   "preco": 19.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-15",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-2-jpeg-6aecdc057d285.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Pano de Chão Condor Microfibra 70x48cm",
+   "tipo": "pano de chao 70x48cm",
+   "preco": 17.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-15",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-2-jpeg-6aecdc057d285.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Vassoura Condor Varre Firme",
+   "tipo": "vassoura",
+   "preco": 34.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-15",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-2-jpeg-6aecdc057d285.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Saco p/Lixo Versátil Rolo 15l c/60un/ 30l c/50un/ 50l c/50un/ 100l c/25un",
+   "tipo": "saco de lixo",
+   "preco": 18.98,
+   "unidade": "cada",
+   "obs": null,
+   "valido_ate": "2026-11-15",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-2-jpeg-6aecdc057d285.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Kit Esponja Scotch-Brite Limpeza Pesada ou Extrema c/4un",
+   "tipo": "esponja de limpeza",
+   "preco": 8.78,
+   "unidade": "cada",
+   "obs": null,
+   "valido_ate": "2026-11-15",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-2-jpeg-6aecdc057d285.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Rodo Condor Duplo 40cm",
+   "tipo": "rodo duplo 40cm",
+   "preco": 28.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-15",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-2-jpeg-6aecdc057d285.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Ferro Agratto Vapore 220v",
+   "tipo": "ferro de passar 220v",
+   "preco": 68.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-15",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-2-jpeg-6aecdc057d285.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Lixeira Plasvale Recicle 35l Ref:375LP",
+   "tipo": "lixeira 35l",
+   "preco": 32.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-15",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-2-jpeg-6aecdc057d285.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Mop Spray Mor",
+   "tipo": "mop spray",
+   "preco": 59.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-15",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-2-jpeg-6aecdc057d285.jpeg"
+  }
+ ]
+}

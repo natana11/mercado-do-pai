@@ -20,7 +20,8 @@
      "por": 16.56
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "mercearia"
   },
   {
    "id": "trigo-grande",
@@ -31,7 +32,8 @@
      "por": 16.9
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "mercearia"
   },
   {
    "id": "trigo-1kg",
@@ -43,7 +45,8 @@
      "de": 3.98
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "mercearia"
   },
   {
    "id": "margarina-grande",
@@ -54,7 +57,8 @@
      "por": 14.88
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "frios"
   },
   {
    "id": "margarina-cremosa",
@@ -65,7 +69,8 @@
      "por": 7.48
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "frios"
   },
   {
    "id": "cafe-coamo",
@@ -76,7 +81,8 @@
      "por": 63.9
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "mercearia"
   },
   {
    "id": "cafe-3c",
@@ -87,7 +93,9 @@
      "por": 28.98
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "mercearia",
+   "tipo": "cafe 500g"
   },
   {
    "id": "linguica",
@@ -98,7 +106,8 @@
      "por": 69.9
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "acougue"
   },
   {
    "id": "batata-frita",
@@ -109,7 +118,8 @@
      "por": 16.9
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "frios"
   },
   {
    "id": "manga",
@@ -120,7 +130,8 @@
      "por": 5.68
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "hortifruti"
   },
   {
    "id": "milho",
@@ -132,7 +143,8 @@
      "de": 2.48
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "mercearia"
   },
   {
    "id": "queijo",
@@ -143,7 +155,8 @@
      "por": 13.88
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "frios"
   },
   {
    "id": "molho",
@@ -155,7 +168,8 @@
      "de": 1.25
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "mercearia"
   },
   {
    "id": "bombril",
@@ -166,7 +180,8 @@
      "por": 2.38
     }
    },
-   "na_lista": false
+   "na_lista": false,
+   "secao": "limpeza"
   },
   {
    "id": "sabao-po",
@@ -182,7 +197,8 @@
      "de": 21.99
     }
    },
-   "na_lista": false
+   "na_lista": false,
+   "secao": "limpeza"
   },
   {
    "id": "sabonete",
@@ -193,7 +209,8 @@
      "por": 2.98
     }
    },
-   "na_lista": false
+   "na_lista": false,
+   "secao": "higiene"
   },
   {
    "id": "pasta-limpeza",
@@ -204,7 +221,8 @@
      "por": 7.69
     }
    },
-   "na_lista": false
+   "na_lista": false,
+   "secao": "limpeza"
   },
   {
    "id": "palito",
@@ -215,7 +233,8 @@
      "por": 1.29
     }
    },
-   "na_lista": false
+   "na_lista": false,
+   "secao": "higiene"
   },
   {
    "id": "creme-dental",
@@ -226,7 +245,8 @@
      "por": 3.28
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "higiene"
   },
   {
    "id": "espaguete",
@@ -238,7 +258,9 @@
      "de": 3.47
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "mercearia",
+   "tipo": "macarrao 400g"
   },
   {
    "id": "creme-leite",
@@ -249,7 +271,8 @@
      "por": 2.99
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "frios"
   },
   {
    "id": "leite-cond",
@@ -261,7 +284,9 @@
      "de": 5.48
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "frios",
+   "tipo": "leite condensado 395g"
   },
   {
    "id": "zeze",
@@ -272,7 +297,8 @@
      "por": 7.98
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "mercearia"
   },
   {
    "id": "cookies",
@@ -284,7 +310,8 @@
      "de": 2.98
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "mercearia"
   },
   {
    "id": "beterraba",
@@ -296,7 +323,8 @@
      "de": 3.17
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "hortifruti"
   },
   {
    "id": "chuchu",
@@ -308,7 +336,8 @@
      "de": 2.99
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "hortifruti"
   },
   {
    "id": "batata",
@@ -320,7 +349,9 @@
      "de": 3.17
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "hortifruti",
+   "tipo": "batata kg"
   },
   {
    "id": "pringles",
@@ -332,7 +363,8 @@
      "de": 10.88
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "mercearia"
   },
   {
    "id": "papel",
@@ -343,7 +375,8 @@
      "por": 17.98
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "limpeza"
   },
   {
    "id": "pipoca",
@@ -355,7 +388,8 @@
      "de": 3.79
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "mercearia"
   },
   {
    "id": "oleo",
@@ -367,7 +401,9 @@
      "de": 6.97
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "mercearia",
+   "tipo": "oleo de soja 900ml"
   },
   {
    "id": "vinagre",
@@ -378,7 +414,8 @@
      "por": 2.65
     }
    },
-   "na_lista": false
+   "na_lista": false,
+   "secao": "mercearia"
   },
   {
    "id": "rosca",
@@ -389,7 +426,8 @@
      "por": 30.85
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "padaria"
   },
   {
    "id": "coxinha",
@@ -401,7 +439,8 @@
      "de": 1.99
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "padaria"
   },
   {
    "id": "mandioca",
@@ -412,7 +451,8 @@
      "por": 7.99
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "mercearia"
   },
   {
    "id": "sal",
@@ -423,7 +463,8 @@
      "por": 2.98
     }
    },
-   "na_lista": false
+   "na_lista": false,
+   "secao": "mercearia"
   },
   {
    "id": "feijao",
@@ -434,7 +475,9 @@
      "por": 8.49
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "mercearia",
+   "tipo": "feijao 1kg"
   },
   {
    "id": "pao",
@@ -445,7 +488,8 @@
      "por": 14.9
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "padaria"
   },
   {
    "id": "farinha-milho",
@@ -456,7 +500,8 @@
      "por": 4.99
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "mercearia"
   },
   {
    "id": "maionese",
@@ -468,7 +513,9 @@
      "de": 10.98
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "mercearia",
+   "tipo": "maionese 400g"
   },
   {
    "id": "ketchup",
@@ -480,7 +527,8 @@
      "de": 14.88
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "mercearia"
   },
   {
    "id": "pimenta",
@@ -491,7 +539,8 @@
      "por": 9.98
     }
    },
-   "na_lista": false
+   "na_lista": false,
+   "secao": "mercearia"
   },
   {
    "id": "jucil",
@@ -502,7 +551,8 @@
      "por": 9.98
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "mercearia"
   },
   {
    "id": "cabelo-anjo",
@@ -513,7 +563,8 @@
      "por": 7.98
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "mercearia"
   },
   {
    "id": "iogurte-pote",
@@ -524,7 +575,8 @@
      "por": 8.98
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "frios"
   },
   {
    "id": "iogurte-saco",
@@ -535,7 +587,8 @@
      "por": 9.98
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "frios"
   },
   {
    "id": "talco",
@@ -546,7 +599,8 @@
      "por": 14.98
     }
    },
-   "na_lista": false
+   "na_lista": false,
+   "secao": "higiene"
   },
   {
    "id": "banana",
@@ -558,7 +612,9 @@
      "de": 2.99
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "hortifruti",
+   "tipo": "banana kg"
   },
   {
    "id": "isabela",
@@ -569,7 +625,8 @@
      "por": 12.98
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "mercearia"
   },
   {
    "id": "gillette",
@@ -580,7 +637,8 @@
      "por": 29.89
     }
    },
-   "na_lista": false
+   "na_lista": false,
+   "secao": "higiene"
   },
   {
    "id": "energetico",
@@ -592,7 +650,8 @@
      "de": 5.98
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "bebidas"
   },
   {
    "id": "desodorante",
@@ -603,7 +662,8 @@
      "por": 19.98
     }
    },
-   "na_lista": false
+   "na_lista": false,
+   "secao": "higiene"
   },
   {
    "id": "musculo",
@@ -614,7 +674,9 @@
      "por": 38.9
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "acougue",
+   "tipo": "carne musculo kg"
   },
   {
    "id": "patinho",
@@ -625,7 +687,9 @@
      "por": 59.9
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "acougue",
+   "tipo": "carne patinho kg"
   },
   {
    "id": "paleta",
@@ -636,7 +700,9 @@
      "por": 46.9
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "acougue",
+   "tipo": "carne paleta kg"
   },
   {
    "id": "morango",
@@ -647,7 +713,8 @@
      "por": 6.98
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "hortifruti"
   },
   {
    "id": "uva",
@@ -658,7 +725,8 @@
      "por": 8.98
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "hortifruti"
   },
   {
    "id": "banha",
@@ -670,7 +738,8 @@
      "de": 12.98
     }
    },
-   "na_lista": false
+   "na_lista": false,
+   "secao": "mercearia"
   },
   {
    "id": "leite",
@@ -682,7 +751,47 @@
      "de": 4.29
     }
    },
-   "na_lista": true
+   "na_lista": true,
+   "secao": "frios",
+   "tipo": "leite 1l"
+  }
+ ],
+ "secoes": [
+  {
+   "id": "hortifruti",
+   "nome": "Frutas e verduras"
+  },
+  {
+   "id": "padaria",
+   "nome": "Padaria"
+  },
+  {
+   "id": "acougue",
+   "nome": "Açougue"
+  },
+  {
+   "id": "frios",
+   "nome": "Frios, leite e congelados"
+  },
+  {
+   "id": "mercearia",
+   "nome": "Mercearia"
+  },
+  {
+   "id": "bebidas",
+   "nome": "Bebidas"
+  },
+  {
+   "id": "limpeza",
+   "nome": "Limpeza"
+  },
+  {
+   "id": "higiene",
+   "nome": "Higiene"
+  },
+  {
+   "id": "outros",
+   "nome": "Outros"
   }
  ]
 }

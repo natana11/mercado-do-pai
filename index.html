@@ -14,6 +14,10 @@
 <header class="topo">
   <h1>🛒 Mercado do Pai</h1>
   <p id="data" class="data">Carregando preços…</p>
+  <nav class="abas">
+    <button id="aba-lista" class="aba ativa" aria-pressed="true">📝 Minha lista</button>
+    <button id="aba-ofertas" class="aba" aria-pressed="false">🔥 Ofertas do dia</button>
+  </nav>
 </header>
 <main id="conteudo" aria-live="polite"></main>
 <dialog id="comparar" aria-labelledby="c-nome">
@@ -21,8 +25,20 @@
   <h2 id="c-nome"></h2>
   <div id="c-precos" class="c-precos"></div>
   <p id="c-frase" class="c-frase"></p>
-  <button id="c-peguei" class="botao grande verde"></button>
+  <button id="c-tirar" class="botao grande vermelho">Tirar da lista</button>
   <button id="c-fechar" class="botao grande claro">Fechar</button>
+</dialog>
+<dialog id="por" aria-labelledby="p-titulo">
+  <h2 id="p-titulo">Pôr na lista</h2>
+  <input id="p-busca" type="text" placeholder="Digite: arroz, ovos…" autocomplete="off" aria-label="Nome do produto">
+  <div id="p-sugestoes" class="sugestoes"></div>
+  <button id="p-fechar" class="botao grande claro">Fechar</button>
+</dialog>
+<dialog id="nova-lista" aria-labelledby="n-titulo">
+  <h2 id="n-titulo">Começar lista nova?</h2>
+  <p class="c-frase">Os riscos somem e a lista volta inteira.</p>
+  <button id="n-sim" class="botao grande verde">Sim, lista nova</button>
+  <button id="n-nao" class="botao grande claro">Não</button>
 </dialog>
 <script src="logica.js"></script>
 <script src="app.js"></script>
