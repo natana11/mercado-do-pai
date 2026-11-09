@@ -1,6 +1,316 @@
 {
- "atualizado": "2026-11-08T17:30:31-03:00",
+ "atualizado": "2026-11-09T07:03:27-03:00",
  "ofertas": [
+  {
+   "mercado": "fatima",
+   "produto": "Carne Bovina Resf Coxão Fora kg",
+   "tipo": "carne bovina kg",
+   "preco": 37.87,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 42,87 kg",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/zRgaHieSIBu1CsXTAPe9dOvlnfm2lXuIs93h7XdS.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Bisteca Suína kg",
+   "tipo": "carne suína kg",
+   "preco": 13.98,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 14,98 kg",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/zRgaHieSIBu1CsXTAPe9dOvlnfm2lXuIs93h7XdS.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Empanado Auroggets Aurora 275g",
+   "tipo": "empanado 275g",
+   "preco": 5.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 6,48 un",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/zRgaHieSIBu1CsXTAPe9dOvlnfm2lXuIs93h7XdS.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Pizza Perdigão Calabresa 460g",
+   "tipo": "pizza 460g",
+   "preco": 13.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 14,98 un",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/zRgaHieSIBu1CsXTAPe9dOvlnfm2lXuIs93h7XdS.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Arroz Parboilizado Kiarroz 1kg",
+   "tipo": "arroz parboilizado 1kg",
+   "preco": 3.59,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 3,99 un",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/zRgaHieSIBu1CsXTAPe9dOvlnfm2lXuIs93h7XdS.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Farinha Trigo Nita 1kg",
+   "tipo": "farinha de trigo 1kg",
+   "preco": 3.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 4,48 un",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/zRgaHieSIBu1CsXTAPe9dOvlnfm2lXuIs93h7XdS.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Leite pó Instantâneo Ninho Integral lata 380g",
+   "tipo": "leite em pó 380g",
+   "preco": 18.99,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 19,99 un",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/zRgaHieSIBu1CsXTAPe9dOvlnfm2lXuIs93h7XdS.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Bebida Láctea UHT Tirolzinho 200ml",
+   "tipo": "bebida lactea 200ml",
+   "preco": 1.49,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 1,69 un",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/lGmCxXSLMQS3GynlqhjbzpHSxYexc6wZ4v0SvXK7.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Cereal Sucrilhos Original leve240g pague200g",
+   "tipo": "cerealeira 200g",
+   "preco": 8.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 9,98 un",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/lGmCxXSLMQS3GynlqhjbzpHSxYexc6wZ4v0SvXK7.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Café Solúvel pó Iguacu Leve200g pague190g",
+   "tipo": "cafe solubil 190g",
+   "preco": 23.88,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 24,88 un",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/lGmCxXSLMQS3GynlqhjbzpHSxYexc6wZ4v0SvXK7.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Achocolatado pó Nescau Cilindro Lata 350g",
+   "tipo": "achocolatado em po 350g",
+   "preco": 8.97,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 9,97 un",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/lGmCxXSLMQS3GynlqhjbzpHSxYexc6wZ4v0SvXK7.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Biscoito Recheado Passatempo choc 10% 130g",
+   "tipo": "biscoito recheado 130g",
+   "preco": 2.48,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 2,98 un",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/lGmCxXSLMQS3GynlqhjbzpHSxYexc6wZ4v0SvXK7.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Suco Integral Vidro Panizzon 1,5L",
+   "tipo": "suco integral 1.5l",
+   "preco": 15.89,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 16,89 un",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/lGmCxXSLMQS3GynlqhjbzpHSxYexc6wZ4v0SvXK7.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Refrigerante Sukita 2L",
+   "tipo": "refrigerante 2l",
+   "preco": 6.99,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/lGmCxXSLMQS3GynlqhjbzpHSxYexc6wZ4v0SvXK7.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Cerveja Antarctica Original Lata 350ml",
+   "tipo": "cerveja lata 350ml",
+   "preco": 3.99,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 4,59 un",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/lGmCxXSLMQS3GynlqhjbzpHSxYexc6wZ4v0SvXK7.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Cerveja Heineken Lata 350ml",
+   "tipo": "cerveja lata 350ml",
+   "preco": 4.69,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 5,29",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/ZE1Pjn5d6CuI6meOs7eUXdAvJNi0a4IwttMdRoiy.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Chocolate Snickers 40g/42g",
+   "tipo": "chocolate barra 40g",
+   "preco": 3.78,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 3,98",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/ZE1Pjn5d6CuI6meOs7eUXdAvJNi0a4IwttMdRoiy.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Papel Higiênico Fd Atualle 20m neutro com 24",
+   "tipo": "papel higiênico 20m x 24un",
+   "preco": 23.88,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 24,88",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/ZE1Pjn5d6CuI6meOs7eUXdAvJNi0a4IwttMdRoiy.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Sabão pó sachê Girando Sol 4kg",
+   "tipo": "sabao em po 4kg",
+   "preco": 28.88,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 29,88",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/ZE1Pjn5d6CuI6meOs7eUXdAvJNi0a4IwttMdRoiy.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Cadeira Praia Mor Alta Alumínio ref:002101/Caixa Térmica Mor 26L",
+   "tipo": "cadeira praia + caixa termica 26l",
+   "preco": 76.9,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 79,90",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/ZE1Pjn5d6CuI6meOs7eUXdAvJNi0a4IwttMdRoiy.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Guarda Sol Mor Faschion Ref:003545",
+   "tipo": "guarda-sol",
+   "preco": 39.9,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 44,90",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/ZE1Pjn5d6CuI6meOs7eUXdAvJNi0a4IwttMdRoiy.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Carrinho Praia Mor (sem o avanço de caixa térmica)",
+   "tipo": "carrinho praia",
+   "preco": 189.9,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 199,90",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/ZE1Pjn5d6CuI6meOs7eUXdAvJNi0a4IwttMdRoiy.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Churrasqueira Mor Montana",
+   "tipo": "churrasqueira",
+   "preco": 139.9,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 149,90",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/ZE1Pjn5d6CuI6meOs7eUXdAvJNi0a4IwttMdRoiy.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Cerveja Heineken Lata 350ml",
+   "tipo": "cerveja lata 350ml",
+   "preco": 4.69,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 5,29",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/C34Q7rHEZpR7vasurK6bvgMlyv2LVUaheorogbfB.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Chocolate Snickers 40g/42g",
+   "tipo": "chocolate barra 40g",
+   "preco": 3.78,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 3,98",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/C34Q7rHEZpR7vasurK6bvgMlyv2LVUaheorogbfB.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Papel Higiênico Fd Atualle 20m neutro com 24",
+   "tipo": "papel higiênico 20m x 24un",
+   "preco": 23.88,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 24,88",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/C34Q7rHEZpR7vasurK6bvgMlyv2LVUaheorogbfB.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Sabão pó sachê Girando Sol 4kg",
+   "tipo": "sabao em po 4kg",
+   "preco": 28.88,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 29,88",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/C34Q7rHEZpR7vasurK6bvgMlyv2LVUaheorogbfB.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Cadeira Praia Mor Alta Alumínio ref:002101/Caixa Térmica Mor 26L",
+   "tipo": "cadeira praia + caixa termica 26l",
+   "preco": 76.9,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 79,90",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/C34Q7rHEZpR7vasurK6bvgMlyv2LVUaheorogbfB.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Guarda Sol Mor Faschion Ref:003545",
+   "tipo": "guarda-sol",
+   "preco": 39.9,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 44,90",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/C34Q7rHEZpR7vasurK6bvgMlyv2LVUaheorogbfB.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Carrinho Praia Mor (sem o avanço de caixa térmica)",
+   "tipo": "carrinho praia",
+   "preco": 189.9,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 199,90",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/C34Q7rHEZpR7vasurK6bvgMlyv2LVUaheorogbfB.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Churrasqueira Mor Montana",
+   "tipo": "churrasqueira",
+   "preco": 139.9,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 149,90",
+   "valido_ate": "2026-11-22",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/C34Q7rHEZpR7vasurK6bvgMlyv2LVUaheorogbfB.png"
+  },
   {
    "mercado": "fatima",
    "produto": "Chocolate Barra Nestlé Savoy 1530g",
@@ -70,6 +380,66 @@
    "obs": "Sem Clube Fátima: R$ 6.48 un",
    "valido_ate": "2026-11-29",
    "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/YPJUUiI3LxAfXPpktCHPW96ocLru76MOCABrmu0d.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Sabão Líquido Tixan Ypê Refil 900ml",
+   "tipo": "sabao liquido refil 900ml",
+   "preco": 8.78,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 8,98 un",
+   "valido_ate": "2026-11-09",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/yeFLLcD16lLQKl3eXUxgud22z96DR3UMWh7Iybyd.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Sabão pó sachê Gota Limpa 800g",
+   "tipo": "sabao em po 800g",
+   "preco": 5.48,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 5,98 un",
+   "valido_ate": "2026-11-09",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/yeFLLcD16lLQKl3eXUxgud22z96DR3UMWh7Iybyd.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Amaciante Concentrado Downy 1L",
+   "tipo": "amaciante concentrado 1l",
+   "preco": 17.88,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 18,88 un",
+   "valido_ate": "2026-11-09",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/yeFLLcD16lLQKl3eXUxgud22z96DR3UMWh7Iybyd.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Papel Higiênico Fd Cisne Neutro 30m com 4 rolos",
+   "tipo": "papel higienico 30m c/ 4 rolos",
+   "preco": 5.48,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 5,98 un",
+   "valido_ate": "2026-11-09",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/yeFLLcD16lLQKl3eXUxgud22z96DR3UMWh7Iybyd.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Fralda Mili Jumbinho p/24 m/22, g/20, xg/18, xxg/16",
+   "tipo": "fralda jumbo",
+   "preco": 18.9,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 19,90 un",
+   "valido_ate": "2026-11-09",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/yeFLLcD16lLQKl3eXUxgud22z96DR3UMWh7Iybyd.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Desodorante Aero Dove 150ml (exceto clinical)",
+   "tipo": "desodorante aero 150ml",
+   "preco": 17.88,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 18,88 un",
+   "valido_ate": "2026-11-09",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/yeFLLcD16lLQKl3eXUxgud22z96DR3UMWh7Iybyd.png"
   },
   {
    "mercado": "fatima",
@@ -260,96 +630,6 @@
    "obs": null,
    "valido_ate": "2026-11-15",
    "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-29-10-jpeg-6ae2549c183e0.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Kalanchoe Dobrado Paixões Pote 11",
-   "tipo": "planta vaso 11cm",
-   "preco": 9.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-08",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-06-11-jpeg-6aecdc1ebc8e6.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Poinsétia Pote 6",
-   "tipo": "planta vaso 6cm",
-   "preco": 7.48,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-08",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-06-11-jpeg-6aecdc1ebc8e6.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Poinsétia Pote 14",
-   "tipo": "planta vaso 14cm",
-   "preco": 27.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-08",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-06-11-jpeg-6aecdc1ebc8e6.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Orquídea Phalaenopsis Mini Pote 9 c/2 Hastes",
-   "tipo": "orquidea mini pote 9",
-   "preco": 36.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-08",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-06-11-jpeg-6aecdc1ebc8e6.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Kalanchoe Dobrado Pote 15",
-   "tipo": "kalanchoe pote 15",
-   "preco": 26.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-08",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-06-11-jpeg-6aecdc1ebc8e6.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Tuia Holandesa ou Strickita Pote 14",
-   "tipo": "planta em vaso",
-   "preco": 40.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-08",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-06-11-jpeg-6aecdc1ebc8e6.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Tuia Holandesa Pote 9*",
-   "tipo": "planta em vaso",
-   "preco": 27.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-08",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-06-11-jpeg-6aecdc1ebc8e6.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Ficus Lyrata Pote 17",
-   "tipo": "planta em vaso",
-   "preco": 36.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-08",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-06-11-jpeg-6aecdc1ebc8e6.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Ficus Elástica Variado Pote 17",
-   "tipo": "planta em vaso",
-   "preco": 40.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-08",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-06-11-jpeg-6aecdc1ebc8e6.jpeg"
   },
   {
    "mercado": "combo",
