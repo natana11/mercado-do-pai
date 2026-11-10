@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-09T16:00:12-03:00",
+ "atualizado": "2026-11-10T07:01:10-03:00",
  "ofertas": [
   {
    "mercado": "fatima",
@@ -313,6 +313,116 @@
   },
   {
    "mercado": "fatima",
+   "produto": "Laranja Pera kg",
+   "tipo": "laranja kg",
+   "preco": 2.48,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 2,68 kg",
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/2KlqcHbPLSCkm30g4omspxps5HcnTU5BRrlc1bXA.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Abacaxi Perola unidade",
+   "tipo": "abacaxi un",
+   "preco": 6.99,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 7,99 un",
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/2KlqcHbPLSCkm30g4omspxps5HcnTU5BRrlc1bXA.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Pimentão Verde kg",
+   "tipo": "pimentao kg",
+   "preco": 6.99,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 7,99 kg",
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/2KlqcHbPLSCkm30g4omspxps5HcnTU5BRrlc1bXA.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Ovos Vermelhos Caipira Benedetta bandeja c/30",
+   "tipo": "ovos 30",
+   "preco": 13.98,
+   "unidade": "bdj",
+   "obs": "Sem Clube Fátima: R$ 14,98 bdj",
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/2KlqcHbPLSCkm30g4omspxps5HcnTU5BRrlc1bXA.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Chuchu kg",
+   "tipo": "chuchu kg",
+   "preco": 1.99,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 2,49 kg",
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/2KlqcHbPLSCkm30g4omspxps5HcnTU5BRrlc1bXA.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Cebola Branca kg",
+   "tipo": "cebola kg",
+   "preco": 4.98,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 5,98 kg",
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/2KlqcHbPLSCkm30g4omspxps5HcnTU5BRrlc1bXA.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Repolho Verde unidade",
+   "tipo": "repolho un",
+   "preco": 2.78,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 2,98 un",
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/2KlqcHbPLSCkm30g4omspxps5HcnTU5BRrlc1bXA.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Batata Doce/Beterraba /pepino salada kg",
+   "tipo": "batata kg",
+   "preco": 2.98,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 3,58 kg",
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/2KlqcHbPLSCkm30g4omspxps5HcnTU5BRrlc1bXA.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Abobrinha Paulista kg",
+   "tipo": "abobrinha kg",
+   "preco": 2.78,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 2,98 kg",
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/2KlqcHbPLSCkm30g4omspxps5HcnTU5BRrlc1bXA.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Brocolis Chinês Kremer bandeja 200g",
+   "tipo": "brócolis 200g",
+   "preco": 2.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 3,48 un",
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/2KlqcHbPLSCkm30g4omspxps5HcnTU5BRrlc1bXA.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Maçã Fuji Nacional 90/110 ou Cenoura kg",
+   "tipo": "maca/cenoura kg",
+   "preco": 3.99,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 4,99 kg",
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/2KlqcHbPLSCkm30g4omspxps5HcnTU5BRrlc1bXA.png"
+  },
+  {
+   "mercado": "fatima",
    "produto": "Chocolate Barra Nestlé Savoy 1530g",
    "tipo": "chocolate barra 1530g",
    "preco": 16.98,
@@ -383,63 +493,13 @@
   },
   {
    "mercado": "fatima",
-   "produto": "Sabão Líquido Tixan Ypê Refil 900ml",
-   "tipo": "sabao liquido refil 900ml",
-   "preco": 8.78,
-   "unidade": "un",
-   "obs": "Sem Clube Fátima: R$ 8,98 un",
-   "valido_ate": "2026-11-09",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/yeFLLcD16lLQKl3eXUxgud22z96DR3UMWh7Iybyd.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Sabão pó sachê Gota Limpa 800g",
-   "tipo": "sabao em po 800g",
-   "preco": 5.48,
-   "unidade": "un",
-   "obs": "Sem Clube Fátima: R$ 5,98 un",
-   "valido_ate": "2026-11-09",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/yeFLLcD16lLQKl3eXUxgud22z96DR3UMWh7Iybyd.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Amaciante Concentrado Downy 1L",
-   "tipo": "amaciante concentrado 1l",
-   "preco": 17.88,
-   "unidade": "un",
-   "obs": "Sem Clube Fátima: R$ 18,88 un",
-   "valido_ate": "2026-11-09",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/yeFLLcD16lLQKl3eXUxgud22z96DR3UMWh7Iybyd.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Papel Higiênico Fd Cisne Neutro 30m com 4 rolos",
-   "tipo": "papel higienico 30m c/ 4 rolos",
-   "preco": 5.48,
-   "unidade": "un",
-   "obs": "Sem Clube Fátima: R$ 5,98 un",
-   "valido_ate": "2026-11-09",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/yeFLLcD16lLQKl3eXUxgud22z96DR3UMWh7Iybyd.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Fralda Mili Jumbinho p/24 m/22, g/20, xg/18, xxg/16",
-   "tipo": "fralda jumbo",
-   "preco": 18.9,
-   "unidade": "un",
-   "obs": "Sem Clube Fátima: R$ 19,90 un",
-   "valido_ate": "2026-11-09",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/yeFLLcD16lLQKl3eXUxgud22z96DR3UMWh7Iybyd.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Desodorante Aero Dove 150ml (exceto clinical)",
-   "tipo": "desodorante aero 150ml",
-   "preco": 17.88,
-   "unidade": "un",
-   "obs": "Sem Clube Fátima: R$ 18,88 un",
-   "valido_ate": "2026-11-09",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/yeFLLcD16lLQKl3eXUxgud22z96DR3UMWh7Iybyd.png"
+   "produto": "Carne Bovina Resf Paleta",
+   "tipo": null,
+   "preco": 35.9,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 38,90 kg",
+   "valido_ate": "2026-11-10",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/bTBfiRTR2nsXfkMWjkhViyNJQ7nEg74x5QlPfXVd.png"
   },
   {
    "mercado": "fatima",
