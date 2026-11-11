@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-10T16:00:11-03:00",
+ "atualizado": "2026-11-11T07:01:06-03:00",
  "ofertas": [
   {
    "mercado": "fatima",
@@ -493,13 +493,63 @@
   },
   {
    "mercado": "fatima",
-   "produto": "Carne Bovina Resf Paleta",
-   "tipo": null,
-   "preco": 35.9,
+   "produto": "Carne Bovina Resf Costela Mingá kg",
+   "tipo": "carne costela kg",
+   "preco": 22.9,
    "unidade": "kg",
-   "obs": "Sem Clube Fátima: R$ 38,90 kg",
-   "valido_ate": "2026-11-10",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/bTBfiRTR2nsXfkMWjkhViyNJQ7nEg74x5QlPfXVd.png"
+   "obs": "Sem Clube Fátima: R$ 25,90 kg",
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/7gKf0F3fJTvA6Ty5dQAznt3xFtTlgLg73pR4E3ht.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Carne Bovina Resf Alcatra kg",
+   "tipo": "carne alcatra kg",
+   "preco": 49.9,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 53,90 kg",
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/7gKf0F3fJTvA6Ty5dQAznt3xFtTlgLg73pR4E3ht.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Carne Bovina Resf Granito vacuo kg",
+   "tipo": "carne granito kg",
+   "preco": 29.9,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 32,90 kg",
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/7gKf0F3fJTvA6Ty5dQAznt3xFtTlgLg73pR4E3ht.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Carne Bovina Resf Acém kg",
+   "tipo": "carne acém kg",
+   "preco": 34.9,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 37,90 kg",
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/7gKf0F3fJTvA6Ty5dQAznt3xFtTlgLg73pR4E3ht.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Costela Suína kg",
+   "tipo": "costela suína kg",
+   "preco": 18.99,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 21,99 kg",
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/7gKf0F3fJTvA6Ty5dQAznt3xFtTlgLg73pR4E3ht.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Cerveja Therezopolis Gold Pure Malt Lager lata 350ml",
+   "tipo": "cerveja lata 350ml",
+   "preco": 2.78,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 3,28 un",
+   "valido_ate": "2026-11-11",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/SzoLdrURjc87FGtxg3UdTLCCrbbjlol9PHELWgt4.png"
   },
   {
    "mercado": "fatima",
