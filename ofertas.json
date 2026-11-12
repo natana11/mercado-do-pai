@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-11T16:00:10-03:00",
+ "atualizado": "2026-11-12T07:03:00-03:00",
  "ofertas": [
   {
    "mercado": "fatima",
@@ -313,113 +313,93 @@
   },
   {
    "mercado": "fatima",
-   "produto": "Laranja Pera kg",
-   "tipo": "laranja kg",
-   "preco": 2.48,
+   "produto": "Carne Bovina Resf Tatu",
+   "tipo": "carne bovina kg",
+   "preco": 36.9,
    "unidade": "kg",
-   "obs": "Sem Clube Fátima: R$ 2,68 kg",
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/2KlqcHbPLSCkm30g4omspxps5HcnTU5BRrlc1bXA.png"
+   "obs": "Sem Clube Fátima: R$ 39,90 kg",
+   "valido_ate": "2026-11-12",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/JR1urDOD0qjOmdITi1XTm9h1xAxaPz6A1dX65spj.png"
   },
   {
    "mercado": "fatima",
-   "produto": "Abacaxi Perola unidade",
-   "tipo": "abacaxi un",
-   "preco": 6.99,
+   "produto": "Pão Doce Fátima",
+   "tipo": "pao doce kg",
+   "preco": 13.9,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 14,90 kg",
+   "valido_ate": "2026-11-12",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/yWgXwuIZeLMpwoijNQQptXQJaOesCJIK3yeXfP6s.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Pão Francês Fátima",
+   "tipo": "pao frances kg",
+   "preco": 12.9,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 13,90 kg",
+   "valido_ate": "2026-11-12",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/yWgXwuIZeLMpwoijNQQptXQJaOesCJIK3yeXfP6s.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Sonho sem recheio Fátima",
+   "tipo": "sonho sem recheio kg",
+   "preco": 15.9,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 16,90 kg",
+   "valido_ate": "2026-11-12",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/yWgXwuIZeLMpwoijNQQptXQJaOesCJIK3yeXfP6s.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Pastel de Forno unidade",
+   "tipo": "pastel de forno un",
+   "preco": 4.99,
    "unidade": "un",
-   "obs": "Sem Clube Fátima: R$ 7,99 un",
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/2KlqcHbPLSCkm30g4omspxps5HcnTU5BRrlc1bXA.png"
+   "obs": "Sem Clube Fátima: R$ 5,49 un",
+   "valido_ate": "2026-11-12",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/yWgXwuIZeLMpwoijNQQptXQJaOesCJIK3yeXfP6s.png"
   },
   {
    "mercado": "fatima",
-   "produto": "Pimentão Verde kg",
-   "tipo": "pimentao kg",
-   "preco": 6.99,
-   "unidade": "kg",
-   "obs": "Sem Clube Fátima: R$ 7,99 kg",
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/2KlqcHbPLSCkm30g4omspxps5HcnTU5BRrlc1bXA.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Ovos Vermelhos Caipira Benedetta bandeja c/30",
-   "tipo": "ovos 30",
-   "preco": 13.98,
-   "unidade": "bdj",
-   "obs": "Sem Clube Fátima: R$ 14,98 bdj",
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/2KlqcHbPLSCkm30g4omspxps5HcnTU5BRrlc1bXA.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Chuchu kg",
-   "tipo": "chuchu kg",
-   "preco": 1.99,
-   "unidade": "kg",
-   "obs": "Sem Clube Fátima: R$ 2,49 kg",
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/2KlqcHbPLSCkm30g4omspxps5HcnTU5BRrlc1bXA.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Cebola Branca kg",
-   "tipo": "cebola kg",
-   "preco": 4.98,
-   "unidade": "kg",
-   "obs": "Sem Clube Fátima: R$ 5,98 kg",
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/2KlqcHbPLSCkm30g4omspxps5HcnTU5BRrlc1bXA.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Repolho Verde unidade",
-   "tipo": "repolho un",
-   "preco": 2.78,
-   "unidade": "un",
-   "obs": "Sem Clube Fátima: R$ 2,98 un",
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/2KlqcHbPLSCkm30g4omspxps5HcnTU5BRrlc1bXA.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Batata Doce/Beterraba /pepino salada kg",
-   "tipo": "batata kg",
-   "preco": 2.98,
-   "unidade": "kg",
-   "obs": "Sem Clube Fátima: R$ 3,58 kg",
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/2KlqcHbPLSCkm30g4omspxps5HcnTU5BRrlc1bXA.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Abobrinha Paulista kg",
-   "tipo": "abobrinha kg",
-   "preco": 2.78,
-   "unidade": "kg",
-   "obs": "Sem Clube Fátima: R$ 2,98 kg",
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/2KlqcHbPLSCkm30g4omspxps5HcnTU5BRrlc1bXA.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Brocolis Chinês Kremer bandeja 200g",
-   "tipo": "brócolis 200g",
-   "preco": 2.98,
-   "unidade": "un",
-   "obs": "Sem Clube Fátima: R$ 3,48 un",
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/2KlqcHbPLSCkm30g4omspxps5HcnTU5BRrlc1bXA.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Maçã Fuji Nacional 90/110 ou Cenoura kg",
-   "tipo": "maca/cenoura kg",
+   "produto": "Salsicha dailex unidade",
+   "tipo": "salsicha dailex un",
    "preco": 3.99,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 4,49 un",
+   "valido_ate": "2026-11-12",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/yWgXwuIZeLMpwoijNQQptXQJaOesCJIK3yeXfP6s.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Bolo Aipim/Milho /Abacaxi Fátima kg",
+   "tipo": "bolo aipim/milho/abacaxi kg",
+   "preco": 19.9,
    "unidade": "kg",
-   "obs": "Sem Clube Fátima: R$ 4,99 kg",
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/2KlqcHbPLSCkm30g4omspxps5HcnTU5BRrlc1bXA.png"
+   "obs": "Sem Clube Fátima: R$ 20,90 kg",
+   "valido_ate": "2026-11-12",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/yWgXwuIZeLMpwoijNQQptXQJaOesCJIK3yeXfP6s.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Pão Wickbold do Forno 100% nutrição 500g",
+   "tipo": "pao wickbold do forno 500g",
+   "preco": 9.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 11,98 un",
+   "valido_ate": "2026-11-12",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/yWgXwuIZeLMpwoijNQQptXQJaOesCJIK3yeXfP6s.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Queijo Fatiado Mussarela Fátima 300g",
+   "tipo": "queijo fatiado mussarela 300g",
+   "preco": 9.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 10,98 un",
+   "valido_ate": "2026-11-12",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/yWgXwuIZeLMpwoijNQQptXQJaOesCJIK3yeXfP6s.png"
   },
   {
    "mercado": "fatima",
@@ -493,93 +473,93 @@
   },
   {
    "mercado": "fatima",
-   "produto": "Carne Bovina Resf Costela Mingá kg",
-   "tipo": "carne costela kg",
-   "preco": 22.9,
-   "unidade": "kg",
-   "obs": "Sem Clube Fátima: R$ 25,90 kg",
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/7gKf0F3fJTvA6Ty5dQAznt3xFtTlgLg73pR4E3ht.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Carne Bovina Resf Alcatra kg",
-   "tipo": "carne alcatra kg",
-   "preco": 49.9,
-   "unidade": "kg",
-   "obs": "Sem Clube Fátima: R$ 53,90 kg",
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/7gKf0F3fJTvA6Ty5dQAznt3xFtTlgLg73pR4E3ht.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Carne Bovina Resf Granito vacuo kg",
-   "tipo": "carne granito kg",
-   "preco": 29.9,
-   "unidade": "kg",
-   "obs": "Sem Clube Fátima: R$ 32,90 kg",
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/7gKf0F3fJTvA6Ty5dQAznt3xFtTlgLg73pR4E3ht.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Carne Bovina Resf Acém kg",
-   "tipo": "carne acém kg",
-   "preco": 34.9,
-   "unidade": "kg",
-   "obs": "Sem Clube Fátima: R$ 37,90 kg",
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/7gKf0F3fJTvA6Ty5dQAznt3xFtTlgLg73pR4E3ht.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Costela Suína kg",
-   "tipo": "costela suína kg",
-   "preco": 18.99,
-   "unidade": "kg",
-   "obs": "Sem Clube Fátima: R$ 21,99 kg",
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/7gKf0F3fJTvA6Ty5dQAznt3xFtTlgLg73pR4E3ht.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Cerveja Therezopolis Gold Pure Malt Lager lata 350ml",
+   "produto": "Cerveja Budweiser Lata 350ml",
    "tipo": "cerveja lata 350ml",
-   "preco": 2.78,
+   "preco": 3.66,
    "unidade": "un",
-   "obs": "Sem Clube Fátima: R$ 3,28 un",
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/SzoLdrURjc87FGtxg3UdTLCCrbbjlol9PHELWgt4.png"
+   "obs": "Sem Clube R$ 4,39",
+   "valido_ate": "2026-11-29",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/96BW4KO0yT2xNAntxx4htXQSMu1NgPNCyiR9Nw8A.png"
   },
   {
    "mercado": "fatima",
-   "produto": "Cerveja Profissa Retornável Brahma 300ml",
-   "tipo": "cerveja garrafa 300ml",
-   "preco": 2.59,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/u4FBGHr9kIhi4zGV7LOtMSpHioyD5kVrADXjv1z1.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Cerveja Corona Extra / Cero sunbrew Lata 350ml",
+   "produto": "Cerveja Corona/Cero Sunbrew Lata 350ml",
    "tipo": "cerveja lata 350ml",
-   "preco": 5.79,
+   "preco": 5.42,
    "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/u4FBGHr9kIhi4zGV7LOtMSpHioyD5kVrADXjv1z1.png"
+   "obs": "Sem Clube R$ 6,19",
+   "valido_ate": "2026-11-29",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/96BW4KO0yT2xNAntxx4htXQSMu1NgPNCyiR9Nw8A.png"
   },
   {
    "mercado": "fatima",
-   "produto": "Cerveja Stella Artois Long neck 330ml",
-   "tipo": "cerveja garrafa 330ml",
-   "preco": 6.59,
+   "produto": "Refrigerante Guaraná Antarctica /Zero Lata 350ml",
+   "tipo": "refrigerante lata 350ml",
+   "preco": 3.24,
+   "unidade": "un",
+   "obs": "Sem Clube R$ 3,89",
+   "valido_ate": "2026-11-29",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/96BW4KO0yT2xNAntxx4htXQSMu1NgPNCyiR9Nw8A.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Cerveja Retornável Profissa Brahma 300ml",
+   "tipo": "cerveja retornavel 300ml",
+   "preco": 2.33,
+   "unidade": "un",
+   "obs": "de R$ 2,79",
+   "valido_ate": "2026-11-29",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/96BW4KO0yT2xNAntxx4htXQSMu1NgPNCyiR9Nw8A.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Isotônico Gatorade 500ml",
+   "tipo": "isotonico 500ml",
+   "preco": 4.33,
+   "unidade": "un",
+   "obs": "de R$ 5,19",
+   "valido_ate": "2026-11-29",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/96BW4KO0yT2xNAntxx4htXQSMu1NgPNCyiR9Nw8A.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Refrigerante Guaraná Antarctica/Zero 2L",
+   "tipo": "refrigerante guarana 2l",
+   "preco": 8.32,
+   "unidade": "un",
+   "obs": "de R$ 9,79",
+   "valido_ate": "2026-11-29",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/96BW4KO0yT2xNAntxx4htXQSMu1NgPNCyiR9Nw8A.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Cerveja Skol Lata 350ml",
+   "tipo": "cerveja lata 350ml",
+   "preco": 3.49,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/u4FBGHr9kIhi4zGV7LOtMSpHioyD5kVrADXjv1z1.png"
+   "valido_ate": "2026-12-02",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/XVqdOK8PON1PLdz2VtAB5VRQMTHWLIF9kKWopKyr.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Cerveja Antarctica Lata 350ml",
+   "tipo": "cerveja lata 350ml",
+   "preco": 3.49,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-02",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/XVqdOK8PON1PLdz2VtAB5VRQMTHWLIF9kKWopKyr.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Cerveja Flying Fish Lata 350ml",
+   "tipo": "cerveja lata 350ml",
+   "preco": 4.59,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-02",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/XVqdOK8PON1PLdz2VtAB5VRQMTHWLIF9kKWopKyr.png"
   },
   {
    "mercado": "fatima",
@@ -588,68 +568,68 @@
    "preco": 3.49,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/u4FBGHr9kIhi4zGV7LOtMSpHioyD5kVrADXjv1z1.png"
+   "valido_ate": "2026-12-02",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/XVqdOK8PON1PLdz2VtAB5VRQMTHWLIF9kKWopKyr.png"
   },
   {
    "mercado": "fatima",
-   "produto": "Cerveja Budweiser /Zero Lata 350ml",
+   "produto": "Cerveja Skol Zero Lata 350ml",
    "tipo": "cerveja lata 350ml",
-   "preco": 5.89,
+   "preco": 3.49,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/u4FBGHr9kIhi4zGV7LOtMSpHioyD5kVrADXjv1z1.png"
+   "valido_ate": "2026-12-02",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/XVqdOK8PON1PLdz2VtAB5VRQMTHWLIF9kKWopKyr.png"
   },
   {
    "mercado": "fatima",
-   "produto": "Cerveja Stella Artois Pure Gold Long 330ml",
+   "produto": "Cerveja Corona Extra Long 330ml",
    "tipo": "cerveja garrafa 330ml",
-   "preco": 7.29,
+   "preco": 7.39,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/u4FBGHr9kIhi4zGV7LOtMSpHioyD5kVrADXjv1z1.png"
+   "valido_ate": "2026-12-02",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/XVqdOK8PON1PLdz2VtAB5VRQMTHWLIF9kKWopKyr.png"
   },
   {
    "mercado": "fatima",
-   "produto": "Cerveja Flying Fish Long 330ml",
-   "tipo": "cerveja garrafa 330ml",
-   "preco": 5.39,
+   "produto": "Bebida Beats Long 269ml",
+   "tipo": "bebida lata 269ml",
+   "preco": 5.59,
    "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/u4FBGHr9kIhi4zGV7LOtMSpHioyD5kVrADXjv1z1.png"
+   "obs": "Leve 3 Pague 2 nesta oferta a unidade sai por R$ 8,39",
+   "valido_ate": "2026-12-02",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/XVqdOK8PON1PLdz2VtAB5VRQMTHWLIF9kKWopKyr.png"
   },
   {
    "mercado": "fatima",
-   "produto": "Refrigerante BC H2OH 5000ml",
-   "tipo": "refrigerante garrafa 5l",
-   "preco": 4.39,
+   "produto": "Bebida Beats Lata 269ml",
+   "tipo": "bebida lata 269ml",
+   "preco": 4.86,
    "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/u4FBGHr9kIhi4zGV7LOtMSpHioyD5kVrADXjv1z1.png"
+   "obs": "Leve 3 Pague 2 nesta oferta a unidade sai por R$ 7,29",
+   "valido_ate": "2026-12-02",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/XVqdOK8PON1PLdz2VtAB5VRQMTHWLIF9kKWopKyr.png"
   },
   {
    "mercado": "fatima",
-   "produto": "Refrigerante Pepsi Cola pet 1L",
-   "tipo": "refrigerante garrafa 1l",
-   "preco": 4.49,
+   "produto": "Refrigerante Pepsi Cola pet 2L",
+   "tipo": "refrigerante 2l",
+   "preco": 8.29,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/u4FBGHr9kIhi4zGV7LOtMSpHioyD5kVrADXjv1z1.png"
+   "valido_ate": "2026-12-02",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/XVqdOK8PON1PLdz2VtAB5VRQMTHWLIF9kKWopKyr.png"
   },
   {
    "mercado": "fatima",
-   "produto": "Refrigerante Guaraná Antarctica /Zero pet 2L",
-   "tipo": "refrigerante garrafa 2l",
-   "preco": 9.39,
+   "produto": "Refrigerante Sukita pet 2L",
+   "tipo": "refrigerante 2l",
+   "preco": 6.99,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-11",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/u4FBGHr9kIhi4zGV7LOtMSpHioyD5kVrADXjv1z1.png"
+   "valido_ate": "2026-12-02",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/XVqdOK8PON1PLdz2VtAB5VRQMTHWLIF9kKWopKyr.png"
   },
   {
    "mercado": "combo",
