@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-13T16:00:11-03:00",
+ "atualizado": "2026-11-14T07:03:23-03:00",
  "ofertas": [
   {
    "mercado": "fatima",
@@ -313,66 +313,6 @@
   },
   {
    "mercado": "fatima",
-   "produto": "Cerveja Schin Lata 350ml",
-   "tipo": "cerveja lata 350ml",
-   "preco": 2.58,
-   "unidade": "un",
-   "obs": "Sem Clube Fátima: R$ 2,78 un",
-   "valido_ate": "2026-11-13",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/hHR3G0778kE2vLuOkpUt2Km8fN6W06LqT7epVM3E.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Copa Suína kg",
-   "tipo": "carne suína kg",
-   "preco": 14.87,
-   "unidade": "kg",
-   "obs": "sem clube: R$16,87 kg",
-   "valido_ate": "2026-11-13",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/CKHZkm8xaRjlIBomgyAsq9gW5ygd4lhXug5vkImt.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Carne Bovina Resf Músculo Dianteiro kg",
-   "tipo": "carne musculo kg",
-   "preco": 29.97,
-   "unidade": "kg",
-   "obs": "sem clube: R$33,97 kg",
-   "valido_ate": "2026-11-13",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/CKHZkm8xaRjlIBomgyAsq9gW5ygd4lhXug5vkImt.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Coxinha da Asa Macedo IQF 1kg",
-   "tipo": "coxinha de asa 1kg",
-   "preco": 10.99,
-   "unidade": "un",
-   "obs": "sem clube: R$11,99 un",
-   "valido_ate": "2026-11-13",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/CKHZkm8xaRjlIBomgyAsq9gW5ygd4lhXug5vkImt.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Carvão Ki Carvão 5kg",
-   "tipo": "carvão 5kg",
-   "preco": 27.9,
-   "unidade": "un",
-   "obs": "sem clube: R$29,90 un",
-   "valido_ate": "2026-11-13",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/CKHZkm8xaRjlIBomgyAsq9gW5ygd4lhXug5vkImt.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Água Mineral Sta Terezinha 510ml",
-   "tipo": "água mineral 510ml",
-   "preco": 0.98,
-   "unidade": "un",
-   "obs": "sem clube: R$1,18 un",
-   "valido_ate": "2026-11-13",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/CKHZkm8xaRjlIBomgyAsq9gW5ygd4lhXug5vkImt.png"
-  },
-  {
-   "mercado": "fatima",
    "produto": "Chocolate Barra Nestlé Savoy 1530g",
    "tipo": "chocolate barra 1530g",
    "preco": 16.98,
@@ -443,6 +383,16 @@
   },
   {
    "mercado": "fatima",
+   "produto": "Carne Bovina Resf Granito Vacuo kg",
+   "tipo": "carne bovina kg",
+   "preco": 28.9,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 31,90 kg",
+   "valido_ate": "2026-11-14",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/gL2bbn3uHobjeUHij6PIs6GCiZ9cYvd2l76yVZeZ.png"
+  },
+  {
+   "mercado": "fatima",
    "produto": "Cerveja Budweiser Lata 350ml",
    "tipo": "cerveja lata 350ml",
    "preco": 3.66,
@@ -500,6 +450,76 @@
    "obs": "de R$ 9,79",
    "valido_ate": "2026-11-29",
    "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/96BW4KO0yT2xNAntxx4htXQSMu1NgPNCyiR9Nw8A.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Leite UHT Amanhecer Integral/Semi/Desnatado 1L",
+   "tipo": "leite 1l",
+   "preco": 3.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 4,28 un",
+   "valido_ate": "2026-11-15",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/Ftgq723awROcArm0kypUdEuytXq5l8hfLYTDTnlF.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Carne Bovina Congelada Capa Contra Filé Boi Brasil Vacuo kg",
+   "tipo": "carne contrafile kg",
+   "preco": 29.97,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 34,97 kg",
+   "valido_ate": "2026-11-15",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/Ftgq723awROcArm0kypUdEuytXq5l8hfLYTDTnlF.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Sobrecoxa Morgana IQF 1kg",
+   "tipo": "carne sobrecoxas kg",
+   "preco": 8.99,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 9,99 un",
+   "valido_ate": "2026-11-15",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/Ftgq723awROcArm0kypUdEuytXq5l8hfLYTDTnlF.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Ovos Vermelhos Grande Jane/ Benedetta bandeja 30",
+   "tipo": "ovos 30",
+   "preco": 12.98,
+   "unidade": "bdj",
+   "obs": "Sem Clube Fátima: R$ 13,98 bdj",
+   "valido_ate": "2026-11-15",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/Ftgq723awROcArm0kypUdEuytXq5l8hfLYTDTnlF.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Banana Caturra kg",
+   "tipo": "banana kg",
+   "preco": 1.99,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 2,99 kg",
+   "valido_ate": "2026-11-15",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/Ftgq723awROcArm0kypUdEuytXq5l8hfLYTDTnlF.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Molho Tomate Tradicional Fugini Sachê 300g",
+   "tipo": "molho tomate 300g",
+   "preco": 1.28,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 1,58 un",
+   "valido_ate": "2026-11-15",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/Ftgq723awROcArm0kypUdEuytXq5l8hfLYTDTnlF.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Rocambole Festival de",
+   "tipo": "rocambole",
+   "preco": 29.9,
+   "unidade": "kg",
+   "obs": null,
+   "valido_ate": "2026-11-14",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/W9qg2aEJtxZcYOCOB3yxUGXP3Vit0pHBEuAjuJhl.png"
   },
   {
    "mercado": "fatima",
