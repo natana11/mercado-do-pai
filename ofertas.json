@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-14T16:00:10-03:00",
+ "atualizado": "2026-11-15T00:10:14-03:00",
  "ofertas": [
   {
    "mercado": "fatima",
@@ -383,16 +383,6 @@
   },
   {
    "mercado": "fatima",
-   "produto": "Carne Bovina Resf Granito Vacuo kg",
-   "tipo": "carne bovina kg",
-   "preco": 28.9,
-   "unidade": "kg",
-   "obs": "Sem Clube Fátima: R$ 31,90 kg",
-   "valido_ate": "2026-11-14",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/gL2bbn3uHobjeUHij6PIs6GCiZ9cYvd2l76yVZeZ.png"
-  },
-  {
-   "mercado": "fatima",
    "produto": "Cerveja Budweiser Lata 350ml",
    "tipo": "cerveja lata 350ml",
    "preco": 3.66,
@@ -510,16 +500,6 @@
    "obs": "Sem Clube Fátima: R$ 1,58 un",
    "valido_ate": "2026-11-15",
    "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/Ftgq723awROcArm0kypUdEuytXq5l8hfLYTDTnlF.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Rocambole Festival de",
-   "tipo": "rocambole",
-   "preco": 29.9,
-   "unidade": "kg",
-   "obs": null,
-   "valido_ate": "2026-11-14",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/W9qg2aEJtxZcYOCOB3yxUGXP3Vit0pHBEuAjuJhl.png"
   },
   {
    "mercado": "fatima",
