@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-15T16:00:10-03:00",
+ "atualizado": "2026-11-16T00:01:25-03:00",
  "ofertas": [
   {
    "mercado": "fatima",
@@ -313,6 +313,76 @@
   },
   {
    "mercado": "fatima",
+   "produto": "Coxa Sobrecoxa Macedo pacote kg",
+   "tipo": "frango coxa sobrecoxa kg",
+   "preco": 8.78,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 8,98 kg",
+   "valido_ate": "2026-11-16",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/jxHYos3zQdeMHelxDlAmD4NIKBnbuBhAWiVWdY4T.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Desinfetante Guimarães 2L",
+   "tipo": "desinfetante 2l",
+   "preco": 7.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 8,98",
+   "valido_ate": "2026-11-16",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/91VU3Q4cv3Y0DOkkcGJjmzVrjjzHhxf4W8owORTz.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Sabão em pó Surf Sachê 800g",
+   "tipo": "sabao em po sachete 800g",
+   "preco": 6.88,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 7,88",
+   "valido_ate": "2026-11-16",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/91VU3Q4cv3Y0DOkkcGJjmzVrjjzHhxf4W8owORTz.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Amaciante Exigente Brilholac 2L",
+   "tipo": "amaciante 2l",
+   "preco": 5.88,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 6,88",
+   "valido_ate": "2026-11-16",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/91VU3Q4cv3Y0DOkkcGJjmzVrjjzHhxf4W8owORTz.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Papel Higiênico Qualité Campione com 4",
+   "tipo": "papel higienico 4 un",
+   "preco": 4.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 5,98",
+   "valido_ate": "2026-11-16",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/91VU3Q4cv3Y0DOkkcGJjmzVrjjzHhxf4W8owORTz.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Fralda Mili Jumbinho p/24 m/22, g/20, xg/18, xxg/16",
+   "tipo": "fralda 24 un",
+   "preco": 18.9,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 19,90",
+   "valido_ate": "2026-11-16",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/91VU3Q4cv3Y0DOkkcGJjmzVrjjzHhxf4W8owORTz.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Desodorante Roll On Rexona 50ml",
+   "tipo": "desodorante roll on 50ml",
+   "preco": 8.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 9,98",
+   "valido_ate": "2026-11-16",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/91VU3Q4cv3Y0DOkkcGJjmzVrjjzHhxf4W8owORTz.png"
+  },
+  {
+   "mercado": "fatima",
    "produto": "Chocolate Barra Nestlé Savoy 1530g",
    "tipo": "chocolate barra 1530g",
    "preco": 16.98,
@@ -440,66 +510,6 @@
    "obs": "de R$ 9,79",
    "valido_ate": "2026-11-29",
    "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/96BW4KO0yT2xNAntxx4htXQSMu1NgPNCyiR9Nw8A.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Leite UHT Amanhecer Integral/Semi/Desnatado 1L",
-   "tipo": "leite 1l",
-   "preco": 3.98,
-   "unidade": "un",
-   "obs": "Sem Clube Fátima: R$ 4,28 un",
-   "valido_ate": "2026-11-15",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/Ftgq723awROcArm0kypUdEuytXq5l8hfLYTDTnlF.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Carne Bovina Congelada Capa Contra Filé Boi Brasil Vacuo kg",
-   "tipo": "carne contrafile kg",
-   "preco": 29.97,
-   "unidade": "kg",
-   "obs": "Sem Clube Fátima: R$ 34,97 kg",
-   "valido_ate": "2026-11-15",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/Ftgq723awROcArm0kypUdEuytXq5l8hfLYTDTnlF.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Sobrecoxa Morgana IQF 1kg",
-   "tipo": "carne sobrecoxas kg",
-   "preco": 8.99,
-   "unidade": "kg",
-   "obs": "Sem Clube Fátima: R$ 9,99 un",
-   "valido_ate": "2026-11-15",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/Ftgq723awROcArm0kypUdEuytXq5l8hfLYTDTnlF.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Ovos Vermelhos Grande Jane/ Benedetta bandeja 30",
-   "tipo": "ovos 30",
-   "preco": 12.98,
-   "unidade": "bdj",
-   "obs": "Sem Clube Fátima: R$ 13,98 bdj",
-   "valido_ate": "2026-11-15",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/Ftgq723awROcArm0kypUdEuytXq5l8hfLYTDTnlF.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Banana Caturra kg",
-   "tipo": "banana kg",
-   "preco": 1.99,
-   "unidade": "kg",
-   "obs": "Sem Clube Fátima: R$ 2,99 kg",
-   "valido_ate": "2026-11-15",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/Ftgq723awROcArm0kypUdEuytXq5l8hfLYTDTnlF.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Molho Tomate Tradicional Fugini Sachê 300g",
-   "tipo": "molho tomate 300g",
-   "preco": 1.28,
-   "unidade": "un",
-   "obs": "Sem Clube Fátima: R$ 1,58 un",
-   "valido_ate": "2026-11-15",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/Ftgq723awROcArm0kypUdEuytXq5l8hfLYTDTnlF.png"
   },
   {
    "mercado": "fatima",
@@ -1933,123 +1943,53 @@
   },
   {
    "mercado": "combo",
-   "produto": "Fralda Huggies Máxima Proteção M66/ G58/ XG56/ XXG54",
-   "tipo": "fralda",
-   "preco": 69.98,
-   "unidade": "cada",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/fim-de-semana-do-bebe-combo-13-11-jpeg-6af61b26cc1d7.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Kit Toalhas Umedecidas Pampers Leve 4un Pague 3un c/192un",
-   "tipo": "toalha umedecida",
-   "preco": 39.98,
-   "unidade": "kit",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/fim-de-semana-do-bebe-combo-13-11-jpeg-6af61b26cc1d7.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Toalhas Umedecidas Huggies Disney Tripla Proteção c/88un",
-   "tipo": "toalha umedecida 88un",
-   "preco": 9.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/fim-de-semana-do-bebe-combo-13-11-jpeg-6af61b26cc1d7.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Toalhas Umedecidas Cottonbaby c/100un",
-   "tipo": "toalha umedecida 100un",
-   "preco": 8.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/fim-de-semana-do-bebe-combo-13-11-jpeg-6af61b26cc1d7.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Fralda Mili Love & Care M78/ G72/ XG66/ XXG56",
-   "tipo": "fralda 500un",
-   "preco": 69.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/fim-de-semana-do-bebe-combo-13-11-jpeg-6af61b26cc1d7.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Formula Infantil Ninho Fases 1+ 800g",
-   "tipo": "formula infantil 800g",
-   "preco": 45.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/fim-de-semana-do-bebe-combo-13-11-jpeg-6af61b26cc1d7.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Creme p/Assaduras Cottonbaby Snoopy 45g",
-   "tipo": "creme para assaduras 45g",
-   "preco": 9.98,
-   "unidade": "cada",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/fim-de-semana-do-bebe-combo-13-11-jpeg-6af61b26cc1d7.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Sabonete Líquido Baby Baruel 400ml",
-   "tipo": "sabonete liquido bebe 400ml",
-   "preco": 18.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/fim-de-semana-do-bebe-combo-13-11-jpeg-6af61b26cc1d7.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Shampoo Baby Baruel 400ml",
-   "tipo": "shampoo bebe 400ml",
-   "preco": 14.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/fim-de-semana-do-bebe-combo-13-11-jpeg-6af61b26cc1d7.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Sabonete Líquido Johnson's Baby da Cabeça aos Pés 750ml",
-   "tipo": "sabonete liquido bebe 750ml",
-   "preco": 49.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/fim-de-semana-do-bebe-combo-13-11-jpeg-6af61b26cc1d7.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Shampoo Johnson's Baby 750ml",
-   "tipo": "shampoo bebe 750ml",
-   "preco": 39.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/fim-de-semana-do-bebe-combo-13-11-jpeg-6af61b26cc1d7.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Mix de Amendoins Happy Hour 200g",
+   "produto": "Mix de Amendoins Euro Company 200g",
    "tipo": "mix de amendoins 200g",
+   "preco": 9.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-29",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-16-11-jpeg-6af76fc4b8fcc.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Amêndoas Laminadas Euro Company 100g",
+   "tipo": "amendoas laminadas 100g",
+   "preco": 12.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-29",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-16-11-jpeg-6af76fc4b8fcc.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Amêndoas Torradas e Salgadas Euro Company 100g",
+   "tipo": "amendoas torradas e salgadas 100g",
+   "preco": 14.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-29",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-16-11-jpeg-6af76fc4b8fcc.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Milho Torrado e Salgado Euro Company 100g",
+   "tipo": "milho torrado 100g",
    "preco": 8.98,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-29-10-jpeg-6ae2549c183e0.jpeg"
+   "valido_ate": "2026-11-29",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-16-11-jpeg-6af76fc4b8fcc.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Mix de Frutas Secas Euro Company 150g",
+   "tipo": "mix de frutas secas 150g",
+   "preco": 15.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-29",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-16-11-jpeg-6af76fc4b8fcc.jpeg"
   },
   {
    "mercado": "combo",
@@ -2058,288 +1998,48 @@
    "preco": 16.98,
    "unidade": "cada",
    "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-29-10-jpeg-6ae2549c183e0.jpeg"
+   "valido_ate": "2026-11-29",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-16-11-jpeg-6af76fc4b8fcc.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Ameixa Seca s/Caroço Euro Company 200g",
-   "tipo": "ameixa seca 200g",
-   "preco": 9.98,
+   "produto": "Passa de Uva Preta s/Sementes Uniagro 500g",
+   "tipo": "passa de uva 500g",
+   "preco": 15.98,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-29-10-jpeg-6ae2549c183e0.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Frutas Cristaladas Euro Company 200g",
-   "tipo": "frutas cristalizadas 200g",
-   "preco": 3.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-29-10-jpeg-6ae2549c183e0.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Nozes Mariposa ou Pecan Euro Company 100g",
-   "tipo": "noz mariposa ou pecan 100g",
-   "preco": 14.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-29-10-jpeg-6ae2549c183e0.jpeg"
+   "valido_ate": "2026-11-29",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-16-11-jpeg-6af76fc4b8fcc.jpeg"
   },
   {
    "mercado": "combo",
    "produto": "Uva Passa Escura s/Semente Feliz 100g",
-   "tipo": "uva passa escura sem semente 100g",
+   "tipo": "passa de uva 100g",
    "preco": 3.98,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-29-10-jpeg-6ae2549c183e0.jpeg"
+   "valido_ate": "2026-11-29",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-16-11-jpeg-6af76fc4b8fcc.jpeg"
   },
   {
    "mercado": "combo",
    "produto": "Ameixa Seca s/Caroço Feliz 100g",
-   "tipo": "ameixa seca sem caroço 100g",
-   "preco": 6.98,
+   "tipo": "ameixa seca 100g",
+   "preco": 6.89,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-29-10-jpeg-6ae2549c183e0.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Nozes Inteiras s/Casca Feliz 60g",
-   "tipo": "nozes inteiras sem casca 60g",
-   "preco": 7.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-29-10-jpeg-6ae2549c183e0.jpeg"
+   "valido_ate": "2026-11-29",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-16-11-jpeg-6af76fc4b8fcc.jpeg"
   },
   {
    "mercado": "combo",
    "produto": "Castanha de Caju Feliz 100g",
-   "tipo": "castanha de caju torrada e salgada 100g",
-   "preco": 16.98,
+   "tipo": "castanha de caju 100g",
+   "preco": 16.89,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-29-10-jpeg-6ae2549c183e0.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Orquídea Phalaenopsis Pote 12",
-   "tipo": "planta ornamental",
-   "preco": 46.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-13-11-jpeg-6af61f2107bb0.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Orquídea Phalaenopsis Pote 6",
-   "tipo": "planta ornamental",
-   "preco": 20.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-13-11-jpeg-6af61f2107bb0.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Poinstia Pote 14",
-   "tipo": "planta ornamental",
-   "preco": 26.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-13-11-jpeg-6af61f2107bb0.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Poinstia Pote 6",
-   "tipo": "planta ornamental",
-   "preco": 7.48,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-13-11-jpeg-6af61f2107bb0.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Planta decorativa",
-   "tipo": "planta decorativa",
-   "preco": 27.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-13-11-jpeg-6af61f2107bb0.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Tuia Holandesa ou Strickita Pote 14",
-   "tipo": "planta em vaso 14cm",
-   "preco": 39.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-13-11-jpeg-6af61f2107bb0.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Tuia Holandesa Pote 9",
-   "tipo": "planta em vaso 9cm",
-   "preco": 28.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-13-11-jpeg-6af61f2107bb0.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Zamioculcas Pote 17",
-   "tipo": "planta em vaso 17cm",
-   "preco": 39.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-13-11-jpeg-6af61f2107bb0.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Lava-roupas em Pó Tixan Leve 4kg Pague 3,6kg",
-   "tipo": "lava roupas em pó 4kg",
-   "preco": 26.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-1-jpeg-6aecdc06074d5.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Lava-roupas Líquido Tixan Ypê 3l",
-   "tipo": "lava roupas líquido 3l",
-   "preco": 22.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-1-jpeg-6aecdc06074d5.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Lava-roupas Líquido Aquafast 5l",
-   "tipo": "lava roupas líquido 5l",
-   "preco": 32.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-1-jpeg-6aecdc06074d5.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Amaciante Ypê 5L",
-   "tipo": "amaciante 5l",
-   "preco": 18.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-1-jpeg-6aecdc06074d5.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Papel Higienico Mili Soft Air Folha Tripla 20m c/12un",
-   "tipo": "papel higienico 12un",
-   "preco": 19.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-2-jpeg-6aecdc057d285.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Pano de Chão Condor Microfibra 70x48cm",
-   "tipo": "pano de chao 70x48cm",
-   "preco": 17.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-2-jpeg-6aecdc057d285.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Vassoura Condor Varre Firme",
-   "tipo": "vassoura",
-   "preco": 34.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-2-jpeg-6aecdc057d285.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Saco p/Lixo Versátil Rolo 15l c/60un/ 30l c/50un/ 50l c/50un/ 100l c/25un",
-   "tipo": "saco de lixo",
-   "preco": 18.98,
-   "unidade": "cada",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-2-jpeg-6aecdc057d285.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Kit Esponja Scotch-Brite Limpeza Pesada ou Extrema c/4un",
-   "tipo": "esponja de limpeza",
-   "preco": 8.78,
-   "unidade": "cada",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-2-jpeg-6aecdc057d285.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Rodo Condor Duplo 40cm",
-   "tipo": "rodo duplo 40cm",
-   "preco": 28.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-2-jpeg-6aecdc057d285.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Ferro Agratto Vapore 220v",
-   "tipo": "ferro de passar 220v",
-   "preco": 68.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-2-jpeg-6aecdc057d285.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Lixeira Plasvale Recicle 35l Ref:375LP",
-   "tipo": "lixeira 35l",
-   "preco": 32.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-2-jpeg-6aecdc057d285.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Mop Spray Mor",
-   "tipo": "mop spray",
-   "preco": 59.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-15",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/operacao-limpeza-combo-06-11-2-jpeg-6aecdc057d285.jpeg"
+   "valido_ate": "2026-11-29",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-16-11-jpeg-6af76fc4b8fcc.jpeg"
   }
  ]
 }
