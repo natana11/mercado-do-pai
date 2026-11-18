@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T16:00:09-03:00",
+ "atualizado": "2026-11-18T07:02:05-03:00",
  "ofertas": [
   {
    "mercado": "fatima",
@@ -450,6 +450,56 @@
    "obs": "Sem Clube Fátima: R$ 6.48 un",
    "valido_ate": "2026-11-29",
    "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/YPJUUiI3LxAfXPpktCHPW96ocLru76MOCABrmu0d.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Cerveja Proibida Lata 350ml",
+   "tipo": "cerveja lata 350ml",
+   "preco": 1.99,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 2,09 un",
+   "valido_ate": "2026-11-18",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/5evmipNnmydVGkfalNt0T1qIDNzXTUD5QbljQFCD.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Carne Bovina Resf Costela Mingá kg",
+   "tipo": "carne bovina resf costela minga kg",
+   "preco": 22.9,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 25,90 kg",
+   "valido_ate": "2026-11-18",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/jtAdZP9SnGocBVqxqhjUalhdkFvSOsuXdus0z3Ek.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Carne Bovina Resf Patinho kg",
+   "tipo": "carne patinho kg",
+   "preco": 44.9,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 46,90 kg",
+   "valido_ate": "2026-11-18",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/jtAdZP9SnGocBVqxqhjUalhdkFvSOsuXdus0z3Ek.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Carne Bovina Resf Tatu kg",
+   "tipo": "carne bovina resf tatu kg",
+   "preco": 37.9,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 38,90 kg",
+   "valido_ate": "2026-11-18",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/jtAdZP9SnGocBVqxqhjUalhdkFvSOsuXdus0z3Ek.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Frango Inteiro Macedo kg / Frango Ave Serra kg",
+   "tipo": "frango inteiro macedo kg / frango ave serra kg",
+   "preco": 9.49,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 9,99 kg",
+   "valido_ate": "2026-11-18",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/jtAdZP9SnGocBVqxqhjUalhdkFvSOsuXdus0z3Ek.png"
   },
   {
    "mercado": "fatima",
