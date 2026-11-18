@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T11:00:09-03:00",
+ "atualizado": "2026-11-18T16:00:50-03:00",
  "ofertas": [
   {
    "mercado": "fatima",
@@ -450,6 +450,16 @@
    "obs": "Sem Clube Fátima: R$ 6.48 un",
    "valido_ate": "2026-11-29",
    "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/YPJUUiI3LxAfXPpktCHPW96ocLru76MOCABrmu0d.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Frango inteiro",
+   "tipo": "frango inteiro",
+   "preco": 29.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-21",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/9PcjPh8fqagKIHZHvtMrHoNQw2pHmIWZxW9Xz8nZ.png"
   },
   {
    "mercado": "fatima",
