@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T11:12:06-03:00",
+ "atualizado": "2026-11-19T16:02:22-03:00",
  "ofertas": [
   {
    "mercado": "fatima",
@@ -310,6 +310,106 @@
    "obs": "Sem Clube Fátima: R$ 149,90",
    "valido_ate": "2026-11-22",
    "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/C34Q7rHEZpR7vasurK6bvgMlyv2LVUaheorogbfB.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Queijo Fatiado Lactovale 300g",
+   "tipo": "queijo fatiado 300g",
+   "preco": 8.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 9,98 un",
+   "valido_ate": "2026-11-19",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/IAMRFASZ0ihiUDsQa6aDeOHKFX8kFJieYNGQWQDD.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Pão Doce Fátima kg",
+   "tipo": "pao doce kg",
+   "preco": 13.9,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 14,90 kg",
+   "valido_ate": "2026-11-19",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/uRTpnxxrRKM36olat6jrzGx15xJ89Fxh4o53DQat.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Pão Francês Fátima kg",
+   "tipo": "pao frances kg",
+   "preco": 12.9,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 13,90 kg",
+   "valido_ate": "2026-11-19",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/uRTpnxxrRKM36olat6jrzGx15xJ89Fxh4o53DQat.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Bolo Toalha Felpuda/Chocolate c/ cobertura/Cenoura c/cobertura fátima kg",
+   "tipo": "bolo fatia kg",
+   "preco": 27.9,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 29,90 kg",
+   "valido_ate": "2026-11-19",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/uRTpnxxrRKM36olat6jrzGx15xJ89Fxh4o53DQat.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Pastel de Forno unidade",
+   "tipo": "pastel un",
+   "preco": 4.99,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 5,49 un",
+   "valido_ate": "2026-11-19",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/uRTpnxxrRKM36olat6jrzGx15xJ89Fxh4o53DQat.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Coxinha dailex unidade",
+   "tipo": "coxinha un",
+   "preco": 3.99,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 4,49 un",
+   "valido_ate": "2026-11-19",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/uRTpnxxrRKM36olat6jrzGx15xJ89Fxh4o53DQat.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Presunto Fatiado Lactovale 300g",
+   "tipo": "presunto fatiado 300g",
+   "preco": 8.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 9,98 un",
+   "valido_ate": "2026-11-19",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/uRTpnxxrRKM36olat6jrzGx15xJ89Fxh4o53DQat.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Doce de Leite Tirol 350g",
+   "tipo": "doce de leite 350g",
+   "preco": 7.99,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 8,49 un",
+   "valido_ate": "2026-11-19",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/uRTpnxxrRKM36olat6jrzGx15xJ89Fxh4o53DQat.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Composto Lacteo Piracanjuba 400g",
+   "tipo": "creme de leite 400g",
+   "preco": 11.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 12,98 un",
+   "valido_ate": "2026-11-19",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/uRTpnxxrRKM36olat6jrzGx15xJ89Fxh4o53DQat.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Leite UHT Zero Lactose Tirol 1L (integral/semi)",
+   "tipo": "leite 1l",
+   "preco": 4.97,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 5,47 un",
+   "valido_ate": "2026-11-19",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/uRTpnxxrRKM36olat6jrzGx15xJ89Fxh4o53DQat.png"
   },
   {
    "mercado": "fatima",
