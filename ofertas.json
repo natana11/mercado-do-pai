@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T16:00:10-03:00",
+ "atualizado": "2026-11-21T07:00:43-03:00",
  "ofertas": [
   {
    "mercado": "fatima",
@@ -313,73 +313,13 @@
   },
   {
    "mercado": "fatima",
-   "produto": "Cerveja Lohn Bier Premium Lager 600ml",
-   "tipo": "cerveja 600ml",
-   "preco": 4.38,
+   "produto": "Leite UHT Amanhacer 1L (Integral, Semidesnatado ou Desnatado)",
+   "tipo": "leite 1l",
+   "preco": 3.98,
    "unidade": "un",
-   "obs": "Sem Clube Fátima: R$ 4,78 un",
-   "valido_ate": "2026-11-20",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/9ShiofJ4WeeEvNKCgZsjJ7esI34phHV9O0I8LvMv.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Carne Bovina Resf Maminha Vacuo kg",
-   "tipo": "carne bovina kg",
-   "preco": 47.9,
-   "unidade": "kg",
-   "obs": "sem clube: R$48,97 kg",
-   "valido_ate": "2026-11-20",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/ysxVqm1BBi8ZA9oSSaWqkaM8t80pwm0tXF3r9qv1.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Lombo Suíno kg",
-   "tipo": "carne suína kg",
-   "preco": 17.98,
-   "unidade": "kg",
-   "obs": "sem clube: R$18,98 kg",
-   "valido_ate": "2026-11-20",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/ysxVqm1BBi8ZA9oSSaWqkaM8t80pwm0tXF3r9qv1.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Carne Bovina Resf Granito vacuo kg",
-   "tipo": "carne bovina kg",
-   "preco": 30.9,
-   "unidade": "kg",
-   "obs": "sem clube: R$31,90 kg",
-   "valido_ate": "2026-11-20",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/ysxVqm1BBi8ZA9oSSaWqkaM8t80pwm0tXF3r9qv1.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Linguiça Resf Churrasco Toscana kg",
-   "tipo": "linguiça kg",
-   "preco": 14.98,
-   "unidade": "kg",
-   "obs": "sem clube: R$15,98 kg",
-   "valido_ate": "2026-11-20",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/ysxVqm1BBi8ZA9oSSaWqkaM8t80pwm0tXF3r9qv1.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Coração de Frango Macedo 800g",
-   "tipo": "miúdos frango 800g",
-   "preco": 29.9,
-   "unidade": "un",
-   "obs": "sem clube: R$30,90 un",
-   "valido_ate": "2026-11-20",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/ysxVqm1BBi8ZA9oSSaWqkaM8t80pwm0tXF3r9qv1.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Energético Baly Lata 473ml",
-   "tipo": "energético lata 473ml",
-   "preco": 4.98,
-   "unidade": "un",
-   "obs": "sem clube: R$5,48 un",
-   "valido_ate": "2026-11-20",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/ysxVqm1BBi8ZA9oSSaWqkaM8t80pwm0tXF3r9qv1.png"
+   "obs": "Sem Clube Fátima: R$ 4,28 un",
+   "valido_ate": "2026-11-21",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/tVcNjjhrG8qpxVrWuezj6kU4oprYIXjmuZgHYz4Z.png"
   },
   {
    "mercado": "fatima",
@@ -520,46 +460,6 @@
    "obs": "de R$ 9,79",
    "valido_ate": "2026-11-29",
    "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/96BW4KO0yT2xNAntxx4htXQSMu1NgPNCyiR9Nw8A.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Coxa Sobrecoxa Dorsal pacote kg",
-   "tipo": "carne frango kg",
-   "preco": 5.98,
-   "unidade": "kg",
-   "obs": "sem clube: R$6,48 un",
-   "valido_ate": "2026-11-20",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/8ZXpMK8cnzMm55wMcpxIvytjC55v7S6q3wn8fPy5.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Cerveja Amstel Lata 350ml",
-   "tipo": "cerveja lata 350ml",
-   "preco": 2.89,
-   "unidade": "un",
-   "obs": "sem clube: R$2,98 un",
-   "valido_ate": "2026-11-20",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/8ZXpMK8cnzMm55wMcpxIvytjC55v7S6q3wn8fPy5.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Lava Louças Ypê 500ml",
-   "tipo": "detergente 500ml",
-   "preco": 1.97,
-   "unidade": "un",
-   "obs": "sem clube: R$2,17 un",
-   "valido_ate": "2026-11-20",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/8ZXpMK8cnzMm55wMcpxIvytjC55v7S6q3wn8fPy5.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Sabão Pó Caixa Omo Lavagem Perfeita 1,6kg",
-   "tipo": "sabao em po 1.6kg",
-   "preco": 18.98,
-   "unidade": "un",
-   "obs": "sem clube: R$19,98 un",
-   "valido_ate": "2026-11-20",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/8ZXpMK8cnzMm55wMcpxIvytjC55v7S6q3wn8fPy5.png"
   },
   {
    "mercado": "fatima",
