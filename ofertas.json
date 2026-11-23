@@ -1,65 +1,75 @@
 {
- "atualizado": "2026-11-22T16:00:10-03:00",
+ "atualizado": "2026-11-23T07:19:05-03:00",
  "ofertas": [
   {
    "mercado": "fatima",
-   "produto": "Carne Bovina Resf Acém kg",
-   "tipo": "carne bovina resfriada kg",
-   "preco": 33.9,
+   "produto": "Carne Bovina Resf Coxão Mole",
+   "tipo": "carne bovina kg",
+   "preco": 45.9,
    "unidade": "kg",
-   "obs": "Sem Clube Fátima: R$ 34,90 kg",
-   "valido_ate": "2026-11-22",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/kUqAiyWm5tTEKnzkAJV1lVHCxLA4JfnmH2Ys09sy.png"
+   "obs": "Sem Clube Fátima: R$ 46,90 kg",
+   "valido_ate": "2026-11-23",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/sGPM67K3RiC8ZDF30cER3syfKjGtGxQumsx5EhW8.png"
   },
   {
    "mercado": "fatima",
-   "produto": "Refrigerante Pureza 2L",
-   "tipo": "refrigerante 2l",
-   "preco": 5.98,
+   "produto": "Sabão Líquido Tixan Ypê Refil 900ml",
+   "tipo": "sabao liquido refil 900ml",
+   "preco": 8.88,
    "unidade": "un",
-   "obs": "Sem Clube Fátima: R$ 6,48 un",
-   "valido_ate": "2026-11-22",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/kUqAiyWm5tTEKnzkAJV1lVHCxLA4JfnmH2Ys09sy.png"
+   "obs": "Sem Clube Fátima: R$ 9,88 un",
+   "valido_ate": "2026-11-23",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/lyqhxujw3lsMThIWgmr0nU5XHv1ReHMuHYKRZLcT.png"
   },
   {
    "mercado": "fatima",
-   "produto": "Arroz Parboilizado Copagro 5kg",
-   "tipo": "arroz 5kg",
-   "preco": 15.98,
+   "produto": "Água Sanitária Guimarães 2L",
+   "tipo": "agua sanitaria 2l",
+   "preco": 4.88,
    "unidade": "un",
-   "obs": "Sem Clube Fátima: R$ 16,98 un",
-   "valido_ate": "2026-11-22",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/kUqAiyWm5tTEKnzkAJV1lVHCxLA4JfnmH2Ys09sy.png"
+   "obs": "Sem Clube Fátima: R$ 5,88 un",
+   "valido_ate": "2026-11-23",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/lyqhxujw3lsMThIWgmr0nU5XHv1ReHMuHYKRZLcT.png"
   },
   {
    "mercado": "fatima",
-   "produto": "Banana Caturra kg",
-   "tipo": "banana kg",
-   "preco": 2.48,
-   "unidade": "kg",
-   "obs": "Sem Clube Fátima: R$ 2,98 kg",
-   "valido_ate": "2026-11-22",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/kUqAiyWm5tTEKnzkAJV1lVHCxLA4JfnmH2Ys09sy.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Cerveja Eisenbahn Pilsen Puro Malte lata 350ml",
-   "tipo": "cerveja lata 350ml",
-   "preco": 2.98,
+   "produto": "Amaciante Zavaski 2L",
+   "tipo": "amaciante 2l",
+   "preco": 6.48,
    "unidade": "un",
-   "obs": "Sem Clube Fátima: R$ 3,28 un",
-   "valido_ate": "2026-11-22",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/kUqAiyWm5tTEKnzkAJV1lVHCxLA4JfnmH2Ys09sy.png"
+   "obs": "Sem Clube Fátima: R$ 6,98 un",
+   "valido_ate": "2026-11-23",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/lyqhxujw3lsMThIWgmr0nU5XHv1ReHMuHYKRZLcT.png"
   },
   {
    "mercado": "fatima",
-   "produto": "Água Mineral Sta Terezinha 510ml",
-   "tipo": "água mineral 510ml",
-   "preco": 0.98,
+   "produto": "Papel Higiênico Fd Qualite Campione com 4",
+   "tipo": "papel higienico 4 rolos",
+   "preco": 4.98,
    "unidade": "un",
-   "obs": "Sem Clube Fátima: R$ 1,09 un",
-   "valido_ate": "2026-11-22",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/kUqAiyWm5tTEKnzkAJV1lVHCxLA4JfnmH2Ys09sy.png"
+   "obs": "Sem Clube Fátima: R$ 5,98 un",
+   "valido_ate": "2026-11-23",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/lyqhxujw3lsMThIWgmr0nU5XHv1ReHMuHYKRZLcT.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Shampoo Palmolive 350ml (exceto kids e anticaspa)",
+   "tipo": "shampoo 350ml",
+   "preco": 7.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 8,98 un",
+   "valido_ate": "2026-11-23",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/lyqhxujw3lsMThIWgmr0nU5XHv1ReHMuHYKRZLcT.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Desodorante Roll On Rexona 50ml",
+   "tipo": "desodorante roll on 50ml",
+   "preco": 8.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 9,98 un",
+   "valido_ate": "2026-11-23",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/lyqhxujw3lsMThIWgmr0nU5XHv1ReHMuHYKRZLcT.png"
   },
   {
    "mercado": "fatima",
@@ -1633,6 +1643,196 @@
   },
   {
    "mercado": "combo",
+   "produto": "Salsicha HotDog Resfriada 3kg",
+   "tipo": "salsicha 3kg",
+   "preco": 16.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-23",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-23-11-jpeg-6aff4c0387026.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Pizza Perdigão Frango com Bacon 460g",
+   "tipo": "pizza congelada 460g",
+   "preco": 13.48,
+   "unidade": "un",
+   "obs": "Ganhe 50% de desconto",
+   "valido_ate": "2026-11-23",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-23-11-jpeg-6aff4c0387026.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Iogurte Nestlé Tamanho Família 1,15kg",
+   "tipo": "iogurte 1.15kg",
+   "preco": 12.98,
+   "unidade": "un",
+   "obs": "Ganhe 50% de desconto",
+   "valido_ate": "2026-11-23",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-23-11-jpeg-6aff4c0387026.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Whisky Johnnie Walker Red Label 1l",
+   "tipo": "whisky",
+   "preco": 79.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-23",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-23-11-jpeg-6aff4c0387026.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Cereal Sucrilhos Original 700g",
+   "tipo": "cereais",
+   "preco": 16.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-23",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-23-11-jpeg-6aff4c0387026.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Azeite de Oliva Extra Virgem Azait 500ml",
+   "tipo": "azeite",
+   "preco": 32.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-23",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-23-11-jpeg-6aff4c0387026.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Folha Tripla 20m/ Sirius c/32un ou Folha Dupla 30m/ Stylus c/32un",
+   "tipo": "papel toalha",
+   "preco": 24.48,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-23",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-23-11-jpeg-6aff4c0387026.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Batata McCain Fininha 1,5kg",
+   "tipo": "batata frita congelada",
+   "preco": 30.78,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-23",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-24-11-jpeg-6aff4c01758cd.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Chocolatto 700g",
+   "tipo": "chocolatte 700g",
+   "preco": 8.78,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-23",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-24-11-jpeg-6aff4c01758cd.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Sanduicheira Aroma Agravto",
+   "tipo": "sanduicheira",
+   "preco": 64.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-23",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-24-11-jpeg-6aff4c01758cd.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Kit Seda Shampoo 300ml + Condicionador 190ml",
+   "tipo": "kit shampoo e condicionador",
+   "preco": 17.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-23",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-24-11-jpeg-6aff4c01758cd.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Linguiça Perdigão Tipo Calabresa 2,5kg",
+   "tipo": "linguica calabresa 2.5kg",
+   "preco": 49.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-23",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-25-11-jpeg-6aff4c022e9e1.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Aurora 900g",
+   "tipo": "aurorgets crocante 900g",
+   "preco": 12.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-23",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-25-11-jpeg-6aff4c022e9e1.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Granola Jasmine Integral Tradicional 1kg",
+   "tipo": "granola 1kg",
+   "preco": 19.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-23",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-25-11-jpeg-6aff4c022e9e1.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Carvão Ki-Carvão Acácia Negra 5kg",
+   "tipo": "carvão 5kg",
+   "preco": 31.9,
+   "unidade": "un",
+   "obs": "Limite de 2 un por CPF; 40% de desconto",
+   "valido_ate": "2026-11-23",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-25-11-jpeg-6aff4c022e9e1.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Mili Baby c/96un",
+   "tipo": "fraldas bebê",
+   "preco": 10.98,
+   "unidade": "un",
+   "obs": "Quant: 2500; preço original R$ 7,32",
+   "valido_ate": "2026-11-23",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-25-11-jpeg-6aff4c022e9e1.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Sorvete Leiffer 3L",
+   "tipo": "sorvete 3l",
+   "preco": 19.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-23",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-26-11-jpeg-6aff4c02d7b3a.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Cerveja Brahma Duplo Malte 350ml",
+   "tipo": "cerveja lata 350ml",
+   "preco": 2.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-23",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-26-11-jpeg-6aff4c02d7b3a.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Caixa termica Mor Cores Diversas 18l",
+   "tipo": "caixa termica 18l",
+   "preco": 54.9,
+   "unidade": "un",
+   "obs": "Quant.:500",
+   "valido_ate": "2026-11-23",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-26-11-jpeg-6aff4c02d7b3a.jpeg"
+  },
+  {
+   "mercado": "combo",
    "produto": "Mix de Amendoins Euro Company 200g",
    "tipo": "mix de amendoins 200g",
    "preco": 9.98,
@@ -1730,86 +1930,6 @@
    "obs": null,
    "valido_ate": "2026-11-29",
    "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-16-11-jpeg-6af76fc4b8fcc.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Orquídea Phalaenopsis Pote 12",
-   "tipo": "planta ornamental",
-   "preco": 46.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-22",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-20-11-jpeg-6aff4f0f8412c.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Orquídea Phalaenopsis Mini Pote 9 c/2 Hastes",
-   "tipo": "planta ornamental",
-   "preco": 34.9,
-   "unidade": "cada",
-   "obs": null,
-   "valido_ate": "2026-11-22",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-20-11-jpeg-6aff4f0f8412c.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Poinsettia Pote 14",
-   "tipo": "planta ornamental",
-   "preco": 24.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-22",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-20-11-jpeg-6aff4f0f8412c.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Poinsettia Pote 6",
-   "tipo": "planta ornamental",
-   "preco": 7.48,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-22",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-20-11-jpeg-6aff4f0f8412c.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Planta decorativa",
-   "tipo": "planta decorativa",
-   "preco": 24.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-22",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-20-11-jpeg-6aff4f0f8412c.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Zamioculcas Pote 17",
-   "tipo": "planta vaso 17cm",
-   "preco": 39.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-22",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-20-11-jpeg-6aff4f0f8412c.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Samambaia Americana Cuia 21",
-   "tipo": "planta vaso 21cm",
-   "preco": 30.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-22",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-20-11-jpeg-6aff4f0f8412c.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Kalanchoe Dobrado Pote 11 (Exceto Paixões)",
-   "tipo": "planta vaso 11cm",
-   "preco": 6.98,
-   "unidade": "cada",
-   "obs": null,
-   "valido_ate": "2026-11-22",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-20-11-jpeg-6aff4f0f8412c.jpeg"
   }
  ]
 }
