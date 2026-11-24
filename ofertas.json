@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T07:05:12-03:00",
+ "atualizado": "2026-11-24T11:01:33-03:00",
  "ofertas": [
   {
    "mercado": "fatima",
@@ -1884,42 +1884,42 @@
   {
    "mercado": "combo",
    "produto": "Batata McCain Fininha 1,5kg",
-   "tipo": "batata frita congelada",
+   "tipo": "batata frita congelada 1,5kg",
    "preco": 30.78,
    "unidade": "un",
-   "obs": null,
+   "obs": "30% de desconto",
    "valido_ate": "2026-11-24",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-24-11-jpeg-6b049e612ab59.jpeg"
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-24-11-jpeg-6b0572b8742ed.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Chocolatto 700g",
-   "tipo": "chocolatte 700g",
+   "produto": "Achocolatado 3 Corações Chocolatto 700g",
+   "tipo": "achocolatado em po 700g",
    "preco": 8.78,
    "unidade": "un",
    "obs": null,
    "valido_ate": "2026-11-24",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-24-11-jpeg-6b049e612ab59.jpeg"
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-24-11-jpeg-6b0572b8742ed.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Sanduicheira Aroma Agravto",
+   "produto": "Vodka Smirnoff 998ml",
+   "tipo": "vodka garrafa 998ml",
+   "preco": 31.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-24",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-24-11-jpeg-6b0572b8742ed.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Sanduicheira Aroma Agratto",
    "tipo": "sanduicheira",
    "preco": 64.9,
    "unidade": "un",
    "obs": null,
    "valido_ate": "2026-11-24",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-24-11-jpeg-6b049e612ab59.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Kit Seda Shampoo 300ml + Condicionador 190ml",
-   "tipo": "kit shampoo e condicionador",
-   "preco": 17.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-24",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-24-11-jpeg-6b049e612ab59.jpeg"
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-24-11-jpeg-6b0572b8742ed.jpeg"
   },
   {
    "mercado": "combo",
