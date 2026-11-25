@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T16:00:08-03:00",
+ "atualizado": "2026-11-25T07:03:09-03:00",
  "ofertas": [
   {
    "mercado": "fatima",
@@ -310,6 +310,76 @@
    "obs": "Sem Clube Fátima: R$ 23,98 un",
    "valido_ate": "2026-12-06",
    "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/cKF1wxWbdeZuad2zO4imV0jF1KAvxGGsqgqENdbd.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Cerveja Antarctica Original Lata 350ml",
+   "tipo": "cerveja lata 350ml",
+   "preco": 3.08,
+   "unidade": "un",
+   "obs": "de R$ 3,69",
+   "valido_ate": "2026-11-25",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/Kv3p9OP4GryBMyUYz7NOYdNcFbJrFHjVv4WyIYtP.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Carne Bovina Resf Costela Mingá kg",
+   "tipo": "carne bovina costela kg",
+   "preco": 22.9,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 25,90 kg",
+   "valido_ate": "2026-11-25",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/cctaGTXdFLscMP63yL648ObQPbwtVACy3Jz8luAP.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Carne Bovina Resf Alcatra kg",
+   "tipo": "carne bovina alcatra kg",
+   "preco": 52.9,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 54,90 kg",
+   "valido_ate": "2026-11-25",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/cctaGTXdFLscMP63yL648ObQPbwtVACy3Jz8luAP.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Carne Bovina Resf Tatu kg",
+   "tipo": "carne bovina tatu kg",
+   "preco": 38.9,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 40,90 kg",
+   "valido_ate": "2026-11-25",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/cctaGTXdFLscMP63yL648ObQPbwtVACy3Jz8luAP.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Carne Bovina Resf Acém kg",
+   "tipo": "carne bovina acém kg",
+   "preco": 34.9,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 35,90 kg",
+   "valido_ate": "2026-11-25",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/cctaGTXdFLscMP63yL648ObQPbwtVACy3Jz8luAP.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Bisteca Suína kg",
+   "tipo": "bisteca suína kg",
+   "preco": 11.98,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 12,98 kg",
+   "valido_ate": "2026-11-25",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/cctaGTXdFLscMP63yL648ObQPbwtVACy3Jz8luAP.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Frango a Passarinho Macedo IQF 1kg",
+   "tipo": "frango a passarinho congelado 1kg",
+   "preco": 11.98,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 12,98 un",
+   "valido_ate": "2026-11-25",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/cctaGTXdFLscMP63yL648ObQPbwtVACy3Jz8luAP.png"
   },
   {
    "mercado": "fatima",
@@ -1883,43 +1953,53 @@
   },
   {
    "mercado": "combo",
-   "produto": "Batata McCain Fininha 1,5kg",
-   "tipo": "batata frita congelada 1,5kg",
-   "preco": 30.78,
-   "unidade": "un",
-   "obs": "30% de desconto",
-   "valido_ate": "2026-11-24",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-24-11-jpeg-6b0572b8742ed.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Achocolatado 3 Corações Chocolatto 700g",
-   "tipo": "achocolatado em po 700g",
-   "preco": 8.78,
+   "produto": "Linguiça Perdigão Tipo Calabresa 2,5kg",
+   "tipo": "linguica calabresa 2.5kg",
+   "preco": 49.9,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-24",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-24-11-jpeg-6b0572b8742ed.jpeg"
+   "valido_ate": "2026-11-25",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-25-11-jpeg-6b05f1037ecd8.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Vodka Smirnoff 998ml",
-   "tipo": "vodka garrafa 998ml",
+   "produto": "Aurora Auroggets Crocante 900g",
+   "tipo": "auroggets crocante 900g",
+   "preco": 12.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-25",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-25-11-jpeg-6b05f1037ecd8.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Granola Jasmine 1kg",
+   "tipo": "granola 1kg",
+   "preco": 19.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-25",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-25-11-jpeg-6b05f1037ecd8.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Carvão Ki-Carvão Acácia Negra 5kg",
+   "tipo": "carvão 5kg",
    "preco": 31.9,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-24",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-24-11-jpeg-6b0572b8742ed.jpeg"
+   "valido_ate": "2026-11-25",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-25-11-jpeg-6b05f1037ecd8.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Sanduicheira Aroma Agratto",
-   "tipo": "sanduicheira",
-   "preco": 64.9,
+   "produto": "Toalhas Umedecidas Mili Baby c/96un",
+   "tipo": "toalha umedecida 96un",
+   "preco": 10.98,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-24",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-24-11-jpeg-6b0572b8742ed.jpeg"
+   "valido_ate": "2026-11-25",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-25-11-jpeg-6b05f1037ecd8.jpeg"
   },
   {
    "mercado": "combo",
