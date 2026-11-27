@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T16:00:11-03:00",
+ "atualizado": "2026-11-27T07:30:01-03:00",
  "ofertas": [
   {
    "mercado": "fatima",
@@ -223,96 +223,6 @@
   },
   {
    "mercado": "fatima",
-   "produto": "Queijo Fatiado Tirol 150g",
-   "tipo": "queijo fatiado 150g",
-   "preco": 6.99,
-   "unidade": "un",
-   "obs": "Sem Clube Fátima: R$ 7,99 un",
-   "valido_ate": "2026-11-26",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/QY7L6ANzGWYxBr4O7aHJyRtadh2IJHItr1Np5zwR.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Pão Doce Fátima",
-   "tipo": "pao doce kg",
-   "preco": 13.9,
-   "unidade": "kg",
-   "obs": "Sem Clube Fátima: R$ 14,90 kg",
-   "valido_ate": "2026-11-26",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/IFsNqHQtZ36L5nqVhav4ta9xTJLFBW81QY8i7Rsf.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Pão Francês Fátima",
-   "tipo": "pao frances kg",
-   "preco": 12.9,
-   "unidade": "kg",
-   "obs": "Sem Clube Fátima: R$ 13,90 kg",
-   "valido_ate": "2026-11-26",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/IFsNqHQtZ36L5nqVhav4ta9xTJLFBW81QY8i7Rsf.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Bolo Abacaxi/Aipim/Limão Fátima",
-   "tipo": "bolo abacaxi aipim limao kg",
-   "preco": 19.9,
-   "unidade": "kg",
-   "obs": "Sem Clube Fátima: R$ 20,90 kg",
-   "valido_ate": "2026-11-26",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/IFsNqHQtZ36L5nqVhav4ta9xTJLFBW81QY8i7Rsf.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Pastel de Forno",
-   "tipo": "pastel de forno unidade",
-   "preco": 4.99,
-   "unidade": "un",
-   "obs": "Sem Clube Fátima: R$ 5,49 un",
-   "valido_ate": "2026-11-26",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/IFsNqHQtZ36L5nqVhav4ta9xTJLFBW81QY8i7Rsf.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Salsicha dailex",
-   "tipo": "salsicha dailex unidade",
-   "preco": 3.99,
-   "unidade": "un",
-   "obs": "Sem Clube Fátima: R$ 4,49 un",
-   "valido_ate": "2026-11-26",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/IFsNqHQtZ36L5nqVhav4ta9xTJLFBW81QY8i7Rsf.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Manteiga Extra Tirol pote 200g",
-   "tipo": "manteiga extra tirol 200g",
-   "preco": 8.98,
-   "unidade": "un",
-   "obs": "Sem Clube Fátima: R$ 9,98 un",
-   "valido_ate": "2026-11-26",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/IFsNqHQtZ36L5nqVhav4ta9xTJLFBW81QY8i7Rsf.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Bebida Lactea UHT Pira Kids 200ml",
-   "tipo": "bebida lactea uht pira kids 200ml",
-   "preco": 1.19,
-   "unidade": "un",
-   "obs": "Sem Clube Fátima: R$ 1,29 un",
-   "valido_ate": "2026-11-26",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/IFsNqHQtZ36L5nqVhav4ta9xTJLFBW81QY8i7Rsf.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Linguiça Calabresa Def. Lactovale 400g",
-   "tipo": "linguica calabresa def lactovale 400g",
-   "preco": 7.98,
-   "unidade": "un",
-   "obs": "Sem Clube Fátima: R$ 8,98 un",
-   "valido_ate": "2026-11-26",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/IFsNqHQtZ36L5nqVhav4ta9xTJLFBW81QY8i7Rsf.png"
-  },
-  {
-   "mercado": "fatima",
    "produto": "Cerveja Flying Fish Long 330ml",
    "tipo": "cerveja lata 330ml",
    "preco": 2.9,
@@ -390,6 +300,456 @@
    "obs": "de R$ 3,69",
    "valido_ate": "2026-11-29",
    "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/oJ5YnUglOebr8lPXIFaY7M0wZsqu0etXAJjwZ7XG.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Leite uht Amanhecer 1L",
+   "tipo": "leite 1l",
+   "preco": 3.79,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 3,99 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/himPXVytBC6I8TiDDqz05KSp5rqIk2uiYOtfq1J6.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Carne Bovina Resf Lombo dianteiro",
+   "tipo": "carne lombo kg",
+   "preco": 32.9,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 34,90 kg",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/X9jEjFECbhfR9hsywoa6O0FZfEpWLhmSt0vIYUHL.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Ovos Codorna da Granja 300g",
+   "tipo": "ovos codorna 300g",
+   "preco": 9.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 12,98 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/X9jEjFECbhfR9hsywoa6O0FZfEpWLhmSt0vIYUHL.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Filezinho Sassami Morgana IQF 1kg",
+   "tipo": "filezinho congelado 1kg",
+   "preco": 14.47,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 15,47 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/X9jEjFECbhfR9hsywoa6O0FZfEpWLhmSt0vIYUHL.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Pepino/Beterraba da Granja 300g",
+   "tipo": "pepino/beterraba 300g",
+   "preco": 5.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 6,48 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/X9jEjFECbhfR9hsywoa6O0FZfEpWLhmSt0vIYUHL.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Maionese Pote receita caseira Hemmer 500g",
+   "tipo": "maionese pote 500g",
+   "preco": 5.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 6,98 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/X9jEjFECbhfR9hsywoa6O0FZfEpWLhmSt0vIYUHL.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Requeijão Tradicional D'nona 400g",
+   "tipo": "requeijao tradicional 400g",
+   "preco": 9.58,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 9,98 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/X9jEjFECbhfR9hsywoa6O0FZfEpWLhmSt0vIYUHL.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Margarina Qualy 500g",
+   "tipo": "margarina 500g",
+   "preco": 6.97,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 7,97 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/X9jEjFECbhfR9hsywoa6O0FZfEpWLhmSt0vIYUHL.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Refrigerante Mini Coca Cola 200ml",
+   "tipo": "refrigerante lata 200ml",
+   "preco": 1.64,
+   "unidade": "un",
+   "obs": "o pack c/12 unidades fica: R$ 19,68",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/M8LBUKzXmqyLZFzOmJrju4ulCQ0IqOCBkhmT5xdH.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Pão Visconti Tradicional 400g",
+   "tipo": "pao 400g",
+   "preco": 3.95,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 4,95 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/pePTX5INQiKdyar2daPNR7Lugc4gjJs75GhUTobX.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Nutella Ferrero 350g",
+   "tipo": "pasta de acao 350g",
+   "preco": 19.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 20,98 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/pePTX5INQiKdyar2daPNR7Lugc4gjJs75GhUTobX.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Banana Caturra kg",
+   "tipo": "banana kg",
+   "preco": 1.99,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 2,29 kg",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/pePTX5INQiKdyar2daPNR7Lugc4gjJs75GhUTobX.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Suco pó Trink Laranja 15g",
+   "tipo": "suco em po 15g",
+   "preco": 0.58,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 0,68 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/pePTX5INQiKdyar2daPNR7Lugc4gjJs75GhUTobX.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Queijo Mussarela/Presunto Lactovale 300g",
+   "tipo": "queijo/presunto 300g",
+   "preco": 8.78,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 9,48 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/pePTX5INQiKdyar2daPNR7Lugc4gjJs75GhUTobX.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Batata Inglesa Lavada Empacotada kg",
+   "tipo": "batata kg",
+   "preco": 2.98,
+   "unidade": "kg",
+   "obs": "Sem Clube Fátima: R$ 3,28 kg",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/pePTX5INQiKdyar2daPNR7Lugc4gjJs75GhUTobX.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Lasanha Seara 600g",
+   "tipo": "lasanha 600g",
+   "preco": 11.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/pePTX5INQiKdyar2daPNR7Lugc4gjJs75GhUTobX.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Leite pó Integral Piracanjuba sachê 400g",
+   "tipo": "leite em po 400g",
+   "preco": 12.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 13,98 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/pePTX5INQiKdyar2daPNR7Lugc4gjJs75GhUTobX.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Bebida Whey 15g Piracanjuba 250ml",
+   "tipo": "bebida proteica 250ml",
+   "preco": 5.79,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 5,98 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/pePTX5INQiKdyar2daPNR7Lugc4gjJs75GhUTobX.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Bombom caixa Nestlé 220g",
+   "tipo": "bombom caixa 220g",
+   "preco": 9.96,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 10,96 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/HgMdWRshpNhWoN1NOzqiEPHjlH5Wp1v2nYbC9WEd.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Bombom Lacta Sonho de Valsa/ Ouro Branco 1kg",
+   "tipo": "bombom 1kg",
+   "preco": 44.99,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 46,99 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/HgMdWRshpNhWoN1NOzqiEPHjlH5Wp1v2nYbC9WEd.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Biscoito Recheado Cartoon 73g",
+   "tipo": "biscoito recheado 73g",
+   "preco": 1.29,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 1,49 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/HgMdWRshpNhWoN1NOzqiEPHjlH5Wp1v2nYbC9WEd.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Vinho Casillero Del Diablo 750ml",
+   "tipo": "vinho 750ml",
+   "preco": 39.9,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 40,90 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/HgMdWRshpNhWoN1NOzqiEPHjlH5Wp1v2nYbC9WEd.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Carvão Ki Carvão 5kg",
+   "tipo": "carvão 5kg",
+   "preco": 28.9,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 30,90 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/GUSIcdG0e38Em3EKVSnpYULXSB1YjVFwYIFGIUzq.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Vinho Cordero Con Piel de Lobo 750ml",
+   "tipo": "vinho 750ml",
+   "preco": 39.9,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 44,90 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/GUSIcdG0e38Em3EKVSnpYULXSB1YjVFwYIFGIUzq.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Vodka Smirnoff 998ml",
+   "tipo": "vodka 998ml",
+   "preco": 29.9,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 31,90 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/GUSIcdG0e38Em3EKVSnpYULXSB1YjVFwYIFGIUzq.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Wafer Minueto 81g",
+   "tipo": "wafer 81g",
+   "preco": 1.58,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 1,88 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/GUSIcdG0e38Em3EKVSnpYULXSB1YjVFwYIFGIUzq.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Bebida Ice Smirnoff 275ml",
+   "tipo": "bebida 275ml",
+   "preco": 5.49,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 5,79 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/GUSIcdG0e38Em3EKVSnpYULXSB1YjVFwYIFGIUzq.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Água Mineral Sta Terezinha 510ml",
+   "tipo": "água mineral 510ml",
+   "preco": 0.89,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 0,99 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/GUSIcdG0e38Em3EKVSnpYULXSB1YjVFwYIFGIUzq.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Sabão pó caixa OMO Lavagem Perfeita 700g",
+   "tipo": "sabão em pó 700g",
+   "preco": 8.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 9,98 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/GUSIcdG0e38Em3EKVSnpYULXSB1YjVFwYIFGIUzq.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Amaciante Guimarães 5L",
+   "tipo": "amaciante 5l",
+   "preco": 12.99,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 13,99 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/GUSIcdG0e38Em3EKVSnpYULXSB1YjVFwYIFGIUzq.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Creme Dental Sensodyne Limpeza profunda/original/branqueador fr 90g",
+   "tipo": "creme dental 90g",
+   "preco": 9.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 10,98 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/GUSIcdG0e38Em3EKVSnpYULXSB1YjVFwYIFGIUzq.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Batata Slice Cebola e Salsa 90g",
+   "tipo": "batata frita 90g",
+   "preco": 4.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 5,98 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/Rhvxb0r3jcdgcdjPqSbXO98GoIt0GVwOX1iq4T5g.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Ovinho Dip Loko Surprise Animal 11g",
+   "tipo": "ovinho surpresa 11g",
+   "preco": 3.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 4,98 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/Rhvxb0r3jcdgcdjPqSbXO98GoIt0GVwOX1iq4T5g.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Chocolate Kit Kat Nestlé 41,5g",
+   "tipo": "chocolate barra 41.5g",
+   "preco": 2.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 3,98 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/Rhvxb0r3jcdgcdjPqSbXO98GoIt0GVwOX1iq4T5g.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Ração Cães Bandit 5kg",
+   "tipo": "ração para cães 5kg",
+   "preco": 19.9,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 24,90 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/Rhvxb0r3jcdgcdjPqSbXO98GoIt0GVwOX1iq4T5g.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Limpador Perf. Veja Serras Brasileiras 2l",
+   "tipo": "limpador 2l",
+   "preco": 10.99,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 11,99",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/8osWsYGmb9YcPGiIQfd3bBsuiVfAVxbgBNrKgyGx.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Aparelho Barbear Prest 2U gripe c/2 ou cabo mov U.Gripe c/2",
+   "tipo": "aparelho barbear 2 un",
+   "preco": 4.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 5,98",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/8osWsYGmb9YcPGiIQfd3bBsuiVfAVxbgBNrKgyGx.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Lava Roupas Guimarães 3L",
+   "tipo": "lava roupas 3l",
+   "preco": 19.89,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/8osWsYGmb9YcPGiIQfd3bBsuiVfAVxbgBNrKgyGx.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Desodorante Aero Axe 150ml",
+   "tipo": "desodorante 150ml",
+   "preco": 8.96,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 9,96",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/8osWsYGmb9YcPGiIQfd3bBsuiVfAVxbgBNrKgyGx.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Salgado Elma Chips Doritos 183g",
+   "tipo": "salgado chips 183g",
+   "preco": 11.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 12,98",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/8osWsYGmb9YcPGiIQfd3bBsuiVfAVxbgBNrKgyGx.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Bala Chicle/ Marshmallow Fini 70g/80g",
+   "tipo": "bala chicle marshmallow 70g ou 80g",
+   "preco": 4.98,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 5,98",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/8osWsYGmb9YcPGiIQfd3bBsuiVfAVxbgBNrKgyGx.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Limpador Perfumado Concentrado Veja 100ml",
+   "tipo": "limpador concentrado 100ml",
+   "preco": 7.99,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 8,99",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/8osWsYGmb9YcPGiIQfd3bBsuiVfAVxbgBNrKgyGx.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Panettone Romato frutas/Chocolate 400g",
+   "tipo": "panettone 400g",
+   "preco": 8.95,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 9,95",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/8osWsYGmb9YcPGiIQfd3bBsuiVfAVxbgBNrKgyGx.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Aparelho de Jantar chá Tramontina c/ 20 peças",
+   "tipo": "aparelho de jantar 20 pecas",
+   "preco": 179.9,
+   "unidade": "un",
+   "obs": "Sem Clube Fátima: R$ 189,90 un",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/OSborgdy9XXe0o6mMoSqgvvqxSPDLjoL4ElwXXhd.png"
+  },
+  {
+   "mercado": "fatima",
+   "produto": "Bebida Beats Sabores Long Neck 269ml",
+   "tipo": "bebida longa neck 269ml",
+   "preco": 4.19,
+   "unidade": "un",
+   "obs": "Leve 2 Pague 1; de R$ 8,39",
+   "valido_ate": "2026-11-28",
+   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/OSborgdy9XXe0o6mMoSqgvvqxSPDLjoL4ElwXXhd.png"
   },
   {
    "mercado": "fatima",
@@ -633,533 +993,23 @@
   },
   {
    "mercado": "combo",
-   "produto": "Filé de Peito de Frango Lar IQF 1kg",
-   "tipo": "filé de peito de frango congelado 1kg",
-   "preco": 16.98,
-   "unidade": "kg",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-1-jpeg-6aff45b9e6819.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Lasanha Perdigão à Bolonhesa Tamanho Família 1kg",
-   "tipo": "lasanha congelada 1kg",
+   "produto": "Lasanha Perdigão à Bolonhesa 1kg",
+   "tipo": "lasanha 1kg",
    "preco": 13.98,
    "unidade": "kg",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-1-jpeg-6aff45b9e6819.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-1-jpeg-6b08940f544aa.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Cerveja Corona Extra 330ml",
-   "tipo": "cerveja garrafa 330ml",
-   "preco": 7.18,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-1-jpeg-6aff45b9e6819.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Leite Condensado Semidesnatado Italac 395g",
-   "tipo": "leite condensado 395g",
-   "preco": 4.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-1-jpeg-6aff45b9e6819.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Creme de Leite Piracanjabu 200g",
-   "tipo": "creme de leite 200g",
-   "preco": 2.68,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-1-jpeg-6aff45b9e6819.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Cerveja Antarctica 350ml",
-   "tipo": "cerveja lata 350ml",
-   "preco": 3.45,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-1-jpeg-6aff45b9e6819.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Desodorante Secret Gel 45g",
-   "tipo": "desodorante 45g",
-   "preco": 23.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-1-jpeg-6aff45b9e6819.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Papel Higiênico Max Folha Dupla 30m c/40un",
-   "tipo": "papel higienico 40 un",
-   "preco": 39.98,
-   "unidade": "pacote",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-1-jpeg-6aff45b9e6819.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Filé de Salmão Aromas do Mar Congelado 500g",
-   "tipo": "filé de salmão 500g",
-   "preco": 49.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-2-jpeg-6aff45b810f1b.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Filé de Tilápia Borgert Congelado 800g",
-   "tipo": "filé de tilápia 800g",
-   "preco": 39.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-2-jpeg-6aff45b810f1b.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Pernil Suíno c/Osso Sabor Catarina Resfriado kg",
-   "tipo": "pernil suíno kg",
-   "preco": 16.98,
+   "produto": "Filezinho de Frango Sassami Canção Congelado 1kg",
+   "tipo": "filezinho de frango congelado 1kg",
+   "preco": 16.48,
    "unidade": "kg",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-2-jpeg-6aff45b810f1b.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Filezinho de Frango Sassami Sadia IQF 1kg",
-   "tipo": "filé de frango congelado 1kg",
-   "preco": 16.98,
-   "unidade": "kg",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-2-jpeg-6aff45b810f1b.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Coxa e Sobrecoxa a Passarinho Canção Congeladas 1kg",
-   "tipo": "coxas e sobrecoxas de frango congeladas 1kg",
-   "preco": 8.98,
-   "unidade": "kg",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-2-jpeg-6aff45b810f1b.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Coxinha da Asa de Frango Nat IQF 1kg",
-   "tipo": "coxinha da asa de frango congelada 1kg",
-   "preco": 11.98,
-   "unidade": "kg",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-2-jpeg-6aff45b810f1b.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Linguiça Toscana Sabor Catarina Resfriada 650g",
-   "tipo": "linguiça toscana resfriada 650g",
-   "preco": 16.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-2-jpeg-6aff45b810f1b.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Sobrecoxas de Frango Sadia Congeladas Bandeira 1kg",
-   "tipo": "sobrecoxa de frango congelada 1kg",
-   "preco": 10.98,
-   "unidade": "bandeja",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-2-jpeg-6aff45b810f1b.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Salsicha Perdigão Hot Dog/Defumada/Frango 500g",
-   "tipo": "salsicha hot dog/defumada/frango 500g",
-   "preco": 8.98,
-   "unidade": "pacote",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-2-jpeg-6aff45b810f1b.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Batata Rústica Bem Brasil 1,05kg",
-   "tipo": "batata rústica 1,05kg",
-   "preco": 16.98,
-   "unidade": "pacote",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-2-jpeg-6aff45b810f1b.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Empanado de Frango Steak Lar 100g",
-   "tipo": "empanado frango 100g",
-   "preco": 1.18,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-3-jpeg-6aff45bca27f2.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Hambúrguer Bovino Aurora 90g",
-   "tipo": "hamburguer bovino 90g",
-   "preco": 2.28,
-   "unidade": "un",
-   "obs": "Levando mais sai R$ 1,82",
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-3-jpeg-6aff45bca27f2.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Hambúrguer Sadia Misto 56g",
-   "tipo": "hamburguer misto 56g",
-   "preco": 0.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-3-jpeg-6aff45bca27f2.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Suco de Laranja Integral Suq 1,5l",
-   "tipo": "suco 1.5l",
-   "preco": 14.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-3-jpeg-6aff45bca27f2.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Pasta de Pão de Alho Seara 200g CHURRASCO",
-   "tipo": "pasta de pão de alho 200g",
-   "preco": 5.48,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-3-jpeg-6aff45bca27f2.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Margarina Claybom 500g (Exceto Sabor Manteiga)",
-   "tipo": "margarina 500g",
-   "preco": 5.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-3-jpeg-6aff45bca27f2.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Pão Tradicional Bauducco 390g",
-   "tipo": "pao 390g",
-   "preco": 6.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-3-jpeg-6aff45bca27f2.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Bebida Láctea Showkinho 200ml",
-   "tipo": "bebida lactea 200ml",
-   "preco": 0.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-3-jpeg-6aff45bca27f2.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Bebida Láctea Tirol Chocolate 1l",
-   "tipo": "bebida lactea 1l",
-   "preco": 5.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-3-jpeg-6aff45bca27f2.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Bebida Láctea Venezia 900g",
-   "tipo": "bebida lactea 900g",
-   "preco": 3.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-3-jpeg-6aff45bca27f2.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "iogurte Vigor Morango 1,15kg",
-   "tipo": "iogurte 1,15kg",
-   "preco": 13.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-3-jpeg-6aff45bca27f2.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Leite Fermentado Vigor 450g",
-   "tipo": "leite fermentado 450g",
-   "preco": 5.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-3-jpeg-6aff45bca27f2.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Chocolate Nestlé KitKat 41,5g",
-   "tipo": "chocolate barra 41.5g",
-   "preco": 3.58,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-3-jpeg-6aff45bca27f2.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Bis Lacta 302,4g",
-   "tipo": "biscoito recheado 302g",
-   "preco": 18.48,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-4-jpeg-6aff45b8e0cd1.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Waffer Trento Bites 120g",
-   "tipo": "waffle recheado 120g",
-   "preco": 8.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-4-jpeg-6aff45b8e0cd1.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Doce Fruta Néctar 350g",
-   "tipo": "doce de fruta 350g",
-   "preco": 5.58,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-4-jpeg-6aff45b8e0cd1.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Achocolatado Toddy 700g",
-   "tipo": "achocolatado 700g",
-   "preco": 13.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-4-jpeg-6aff45b8e0cd1.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Wafer Ninfa 84g",
-   "tipo": "wafer 84g",
-   "preco": 1.48,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-4-jpeg-6aff45b8e0cd1.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Amendoim Branco Kanty 400g",
-   "tipo": "amendoim 400g",
-   "preco": 3.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-4-jpeg-6aff45b8e0cd1.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Batata Ondulada Ruffles Original 100g",
-   "tipo": "batata ondulada 100g",
-   "preco": 8.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-4-jpeg-6aff45b8e0cd1.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Batata Palha Big Fritas 800g",
-   "tipo": "batata palha 800g",
-   "preco": 19.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-4-jpeg-6aff45b8e0cd1.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Aveia Levit em Flocos Finos 500g",
-   "tipo": "aveia 500g",
-   "preco": 6.38,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-4-jpeg-6aff45b8e0cd1.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Massa p/Tapioca Rocha 1kg",
-   "tipo": "massa tapioca 1kg",
-   "preco": 9.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-4-jpeg-6aff45b8e0cd1.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Farinha de Trigo Roseflor Tipo 1 5kg",
-   "tipo": "farinha trigo 5kg",
-   "preco": 15.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-4-jpeg-6aff45b8e0cd1.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Açúcar Naturale Demerara União 2000g",
-   "tipo": "acucar demerara 2kg",
-   "preco": 5.28,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-4-jpeg-6aff45b8e0cd1.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Óleo de Girassol Sinha 900ml",
-   "tipo": "oleo de girassol 900ml",
-   "preco": 10.48,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-4-jpeg-6aff45b8e0cd1.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Caldo Maggi 152g",
-   "tipo": "caldo maggi 152g",
-   "preco": 4.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-4-jpeg-6aff45b8e0cd1.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Milho Verde Oderich 200g",
-   "tipo": "milho verde 200g",
-   "preco": 2.85,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-4-jpeg-6aff45b8e0cd1.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Vinho Jurupinga 975ml",
-   "tipo": "vinho 975ml",
-   "preco": 19.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-5-jpeg-6aff45baceee2.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Gin Gordon's 750ml",
-   "tipo": "gin 750ml",
-   "preco": 61.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-5-jpeg-6aff45baceee2.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Whisky White Horse 1l",
-   "tipo": "whisky 1l",
-   "preco": 65.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-5-jpeg-6aff45baceee2.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Cachaça Velho Barreiro 910ml",
-   "tipo": "cachaça 910ml",
-   "preco": 16.8,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-5-jpeg-6aff45baceee2.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Vodka Raíska 1l",
-   "tipo": "vodka 1l",
-   "preco": 20.8,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-5-jpeg-6aff45baceee2.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Vodka Smirnoff 600ml",
-   "tipo": "vodka 600ml",
-   "preco": 23.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-5-jpeg-6aff45baceee2.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Cerveja Brahma Chopp c/18un 350ml",
-   "tipo": "cerveja lata 350ml",
-   "preco": 60.84,
-   "unidade": "un",
-   "obs": "Nesta embalagem cada lata sai por R$ 3,38",
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-5-jpeg-6aff45baceee2.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-1-jpeg-6b08940f544aa.jpeg"
   },
   {
    "mercado": "combo",
@@ -1168,568 +1018,988 @@
    "preco": 3.78,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-5-jpeg-6aff45baceee2.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-1-jpeg-6b08940f544aa.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Cerveja Heineken Ultimate s/Glúten 350ml",
-   "tipo": "cerveja lata 350ml",
-   "preco": 5.98,
+   "produto": "Farinha de Trigo Roseflor 5kg",
+   "tipo": "farinha de trigo 5kg",
+   "preco": 15.9,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-5-jpeg-6aff45baceee2.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-1-jpeg-6b08940f544aa.jpeg"
   },
   {
    "mercado": "combo",
    "produto": "Cerveja Sol Premium 330ml",
-   "tipo": "cerveja garrafa 330ml",
+   "tipo": "cerveja 330ml",
    "preco": 4.98,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-5-jpeg-6aff45baceee2.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-1-jpeg-6b08940f544aa.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Cerveja Lohn Bier Pilsen 600ml",
-   "tipo": "cerveja garrafa 600ml",
-   "preco": 6.58,
+   "produto": "Lava-roupas em Pó Brilhante s/Perfume 4kg",
+   "tipo": "detergente em po 4kg",
+   "preco": 29.9,
+   "unidade": "un",
+   "obs": "Levando mais sai R$ 26,90",
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-1-jpeg-6b08940f544aa.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Desodorante Gillette Clear 82g",
+   "tipo": "desodorante 82g",
+   "preco": 27.98,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-5-jpeg-6aff45baceee2.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-1-jpeg-6b08940f544aa.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Refrigerante Guaraná Kuat 2l",
-   "tipo": "refrigerante 2l",
-   "preco": 6.28,
+   "produto": "Papel Higiênico Mili 60m c/12un",
+   "tipo": "papel higienico 60m 12un",
+   "preco": 23.98,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-5-jpeg-6aff45baceee2.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-1-jpeg-6b08940f544aa.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Refrigerante Coca-Cola s/Açúcar 2l",
-   "tipo": "refrigerante 2l",
-   "preco": 11.48,
+   "produto": "Camarão Aromas do Mar Pequeno Descascado Congelado 500g",
+   "tipo": "camarão descascado congelado 500g",
+   "preco": 33.98,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-5-jpeg-6aff45baceee2.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-2-jpeg-6b0894114c8ee.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Cerveja Crystal 350ml",
-   "tipo": "cerveja lata 350ml",
-   "preco": 2.28,
+   "produto": "Filé de Tilápia Borgert Congelado 800g",
+   "tipo": "filé de tilápia congelado 800g",
+   "preco": 39.98,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-5-jpeg-6aff45baceee2.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-2-jpeg-6b0894114c8ee.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Cerveja Estrella Galicia 350ml",
-   "tipo": "cerveja lata 350ml",
-   "preco": 3.98,
+   "produto": "Pernil Suíno c/Osso Sabor Catarina Resfriado Pedaço kg",
+   "tipo": "pernil suíno resfriado kg",
+   "preco": 16.98,
+   "unidade": "kg",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-2-jpeg-6b0894114c8ee.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Linguiça Toscana Sabor Catarina Resfriada 650g",
+   "tipo": "linguiça toscana resfriada 650g",
+   "preco": 16.98,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-5-jpeg-6aff45baceee2.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-2-jpeg-6b0894114c8ee.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Nosso Coco Água de Coco 1L",
-   "tipo": "agua de coco 1l",
+   "produto": "Coxa e Sobrecoxa de Frango c/Porção Dorsal Canção Congeladas kg",
+   "tipo": "frango congelado kg",
    "preco": 7.48,
-   "unidade": "un",
+   "unidade": "kg",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-5-jpeg-6aff45baceee2.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-2-jpeg-6b0894114c8ee.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Aurora Suco de Uva 1,5L (Exceto Vidro)",
-   "tipo": "suco de uva 1.5l",
-   "preco": 14.9,
-   "unidade": "un",
+   "produto": "Coxinha da Asa de Frango Canção Congelada 1kg",
+   "tipo": "coxinha congelada kg",
+   "preco": 11.98,
+   "unidade": "kg",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-5-jpeg-6aff45baceee2.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-2-jpeg-6b0894114c8ee.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "The Natural One Néctar Fresh 900ml",
-   "tipo": "nectar natural one fresh 900ml",
-   "preco": 6.9,
+   "produto": "Linguiça Aurora Churrasco Congelada 700g",
+   "tipo": "linguiça congelada 700g",
+   "preco": 12.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-2-jpeg-6b0894114c8ee.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Filé de Peito de Frango Canção Congelado Almofada kg",
+   "tipo": "filé de peito de frango congelado kg",
+   "preco": 15.98,
+   "unidade": "kg",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-2-jpeg-6b0894114c8ee.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Empanado de Frango Steak Lar 100g",
+   "tipo": "empanado de frango 100g",
+   "preco": 1.18,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-2-jpeg-6b0894114c8ee.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Hot Bowls ou Macn Cheese Sadia 300g",
+   "tipo": "macarrão instantâneo 300g",
+   "preco": 7.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-2-jpeg-6b0894114c8ee.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Salame Inteiro Perdigão Ouro kg",
+   "tipo": "salame 1kg",
+   "preco": 49.9,
+   "unidade": "kg",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-2-jpeg-6b0894114c8ee.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Batata Congelada Carinhas Bem Brasil 1,05kg",
+   "tipo": "batata congelada 1kg",
+   "preco": 14.98,
+   "unidade": "un",
+   "obs": "Levando mais sai R$ 12,98",
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-3-jpeg-6b0894171cc2c.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Requeijão Veneza 400g",
+   "tipo": "requeijao 400g",
+   "preco": 11.78,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-3-jpeg-6b0894171cc2c.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Margarina Claybom 500g (Exceto Sabor Manteiga)",
+   "tipo": "margarina 500g",
+   "preco": 5.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-3-jpeg-6b0894171cc2c.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Pão de Alho Massa Da Boa 300g",
+   "tipo": "pao de alho 300g",
+   "preco": 6.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-3-jpeg-6b0894171cc2c.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Bisnaguinha Vital 300g ou Pão de Forma Vital Tradicional 400g",
+   "tipo": "pao tradicional 300g/400g",
+   "preco": 4.98,
    "unidade": "cada",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-5-jpeg-6aff45baceee2.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-3-jpeg-6b0894171cc2c.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Mid Refresco em Pó 20g (Exceto Zero)",
-   "tipo": "refresco em pó mid 20g",
-   "preco": 0.68,
-   "unidade": "cada",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-5-jpeg-6aff45baceee2.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Creme 2 em 1 Skala 1kg",
-   "tipo": "creme capilar 1kg",
-   "preco": 10.98,
+   "produto": "Bebida Láctea Choco Leite 880ml",
+   "tipo": "bebida lactea chocolate 880ml",
+   "preco": 7.78,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-6-jpeg-6aff45bbaf525.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-3-jpeg-6b0894171cc2c.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Shampoo Monange 325ml",
-   "tipo": "shampoo 325ml",
-   "preco": 8.98,
+   "produto": "Bebida Láctea Pirakids 200ml",
+   "tipo": "bebida lactea chocolate 200ml",
+   "preco": 0.99,
    "unidade": "un",
-   "obs": "Levando mais sai R$ 8,48",
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-6-jpeg-6aff45bbaf525.jpeg"
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-3-jpeg-6b0894171cc2c.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Shampoo Vult 350ml ou Condicionador 325ml",
-   "tipo": "shampoo ou condicionador 350ml/325ml",
+   "produto": "Iogurte Tirol Pedaços 400g",
+   "tipo": "iogurte 400g",
+   "preco": 6.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-3-jpeg-6b0894171cc2c.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Petit Suisse Turma do Shrek 320g",
+   "tipo": "petit suisse 320g",
+   "preco": 4.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-3-jpeg-6b0894171cc2c.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Sobremesa Danone Danette 540g",
+   "tipo": "sobremesa 540g",
+   "preco": 14.48,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-3-jpeg-6b0894171cc2c.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Tirol Kids Bebida Láctea 200ml",
+   "tipo": "bebida lactea 200ml",
+   "preco": 1.38,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-3-jpeg-6b0894171cc2c.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Tirol Leite Zero Lactose 1L",
+   "tipo": "leite 1l",
+   "preco": 4.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-3-jpeg-6b0894171cc2c.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Chocolate Lacta Barra 80g/90g/104g",
+   "tipo": "chocolate barra 80g-104g",
+   "preco": 6.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-4-jpeg-6b0894164565a.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Chocolate Stick Nestlé 26g ou Garoto 24g",
+   "tipo": "chocolate stick 24g-26g",
+   "preco": 2.38,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-4-jpeg-6b0894164565a.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Doce de Leite Tirol 350g",
+   "tipo": "doce de leite 350g",
+   "preco": 7.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-4-jpeg-6b0894164565a.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Creme de Avelã c/Cacau Barion 280g",
+   "tipo": "creme de avela 280g",
+   "preco": 19.48,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-4-jpeg-6b0894164565a.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Achocolatado Toddy Original 1,02kg",
+   "tipo": "achocolatado 1,02kg",
    "preco": 19.98,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-6-jpeg-6aff45bbaf525.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-4-jpeg-6b0894164565a.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Kit Pantene Shampoo + Condicionador",
-   "tipo": "kit shampoo e condicionador",
-   "preco": 26.98,
+   "produto": "Casquinha de Sorvete Barion 75g",
+   "tipo": "sorvete casquinha 75g",
+   "preco": 6.98,
    "unidade": "un",
-   "obs": "Contém: 1 shampoo 400ml + 1 condicionador 175ml",
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-6-jpeg-6aff45bbaf525.jpeg"
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-4-jpeg-6b0894164565a.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Shampoo Clear Men Ice Cool Menthol Leve 400ml Pague 330ml",
-   "tipo": "shampoo 730ml",
+   "produto": "Geleia Queensberry Gourmet 310g/320g",
+   "tipo": "geleia 310g-320g",
+   "preco": 20.98,
+   "unidade": "cada",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-4-jpeg-6b0894164565a.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Café Nescafé Original 200g",
+   "tipo": "cafe solúvel 200g",
+   "preco": 23.98,
+   "unidade": "cada",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-4-jpeg-6b0894164565a.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Café Iguacu Solúvel Tradicional 200g",
+   "tipo": "cafe solúvel 200g",
    "preco": 24.98,
-   "unidade": "un",
+   "unidade": "cada",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-6-jpeg-6aff45bbaf525.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-4-jpeg-6b0894164565a.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Desodorante Axe Aero Apollo ou Black 150ml",
-   "tipo": "desodorante aerosol 150ml",
-   "preco": 8.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-6-jpeg-6aff45bbaf525.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Sabonete Líquido Palmolive Naturals 900ml",
-   "tipo": "sabonete liquido 900ml",
-   "preco": 17.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-6-jpeg-6aff45bbaf525.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Fio Dental Colgate 50m",
-   "tipo": "fio dental 50m",
+   "produto": "Granola Mãe Terra Castanhas 250g",
+   "tipo": "granola 250g",
    "preco": 10.98,
-   "unidade": "un",
+   "unidade": "cada",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-6-jpeg-6aff45bbaf525.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-4-jpeg-6b0894164565a.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Creme Dental Sensodyne 100g",
-   "tipo": "creme dental 100g",
-   "preco": 18.98,
+   "produto": "Milho Verde Bonare 170g",
+   "tipo": "milho verde em lata 170g",
+   "preco": 2.58,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-6-jpeg-6aff45bbaf525.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-4-jpeg-6b0894164565a.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Creme Dental Colgate Total 90g",
-   "tipo": "creme dental 90g",
-   "preco": 10.98,
+   "produto": "Maionese Hellmann's 657g",
+   "tipo": "maionese 657g",
+   "preco": 12.88,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-6-jpeg-6aff45bbaf525.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-4-jpeg-6b0894164565a.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Enxaguante Bucal Colgate Plax 750ml",
-   "tipo": "enxaguante bucal 750ml",
-   "preco": 15.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-6-jpeg-6aff45bbaf525.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Absorvente Always Super Proteção c/32un",
-   "tipo": "absorvente 32un",
-   "preco": 13.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-6-jpeg-6aff45bbaf525.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Protetor Mili c/15un",
-   "tipo": "protetor diário 15un",
+   "produto": "Batata Palha Kifritas 70g",
+   "tipo": "batata palha 70g",
    "preco": 3.98,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-6-jpeg-6aff45bbaf525.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-4-jpeg-6b0894164565a.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Coloração Mini Cor&Ton Com ou Sem Amônia",
-   "tipo": "coloração capilar mini",
-   "preco": 15.98,
-   "unidade": "un",
-   "obs": "Levando mais sai R$ 14,98",
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-6-jpeg-6aff45bbaf525.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Lenço de Papel Elite c/100un",
-   "tipo": "lenço de papel 100un",
-   "preco": 4.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-6-jpeg-6aff45bbaf525.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Fralda Mili Vita Care M27/ G24/ XG21",
-   "tipo": "fralda descartavel",
-   "preco": 59.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-6-jpeg-6aff45bbaf525.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Roupa Intima Plenitud Classic P/ M/ G/ XG c/32un",
-   "tipo": "roupa intima",
-   "preco": 89.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-6-jpeg-6aff45bbaf525.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Toalhas Umedecidas Cottonbaby c/200un",
-   "tipo": "toalha umedecida",
-   "preco": 18.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-6-jpeg-6aff45bbaf525.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Shampoo ou Sabonete Huggies Extra Suave 600ml",
-   "tipo": "shampoo ou sabonete liquido",
+   "produto": "Granola Alquimya Premium 500g",
+   "tipo": "granola 500g",
    "preco": 29.98,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-6-jpeg-6aff45bbaf525.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-4-jpeg-6b0894164565a.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Lava-roupas Líquido Exigente 3l",
-   "tipo": "lava-roupas liquido 3l",
-   "preco": 17.98,
+   "produto": "Molho de Tomate Bonare Sachê 300g",
+   "tipo": "molho de tomate 300g",
+   "preco": 1.48,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-7-jpeg-6aff45be5e391.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-4-jpeg-6b0894164565a.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Lava-roupas Líquido Ola 1l",
-   "tipo": "lava-roupas liquido 1l",
-   "preco": 17.98,
+   "produto": "Ovos de Codorna Lembeck 300g",
+   "tipo": "ovos em conserva 300g",
+   "preco": 12.98,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-7-jpeg-6aff45be5e391.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-4-jpeg-6b0894164565a.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Lava-roupas Líquido Brilhante 3l",
-   "tipo": "lava-roupas liquido 3l",
+   "produto": "Tempero Maggi Meu Segredo 49g",
+   "tipo": "tempero 49g",
+   "preco": 2.98,
+   "unidade": "cada",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-4-jpeg-6b0894164565a.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Óleo de Girassol Sinha 900ml",
+   "tipo": "oleo de girassol 900ml",
+   "preco": 9.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-4-jpeg-6b0894164565a.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Vinho Chileno Micaela Varietal 750ml",
+   "tipo": "vinho 750ml",
+   "preco": 26.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-5-jpeg-6b089414263d0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Espumante Garibaldi Vero 750ml",
+   "tipo": "espumante 750ml",
+   "preco": 27.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-5-jpeg-6b089414263d0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Vodka Smirnoff 1,75l",
+   "tipo": "vodka 1,75l",
+   "preco": 52.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-5-jpeg-6b089414263d0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Aguardente 51 Pirassununga 965ml",
+   "tipo": "aguardente 965ml",
+   "preco": 12.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-5-jpeg-6b089414263d0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Chopp Athena 1,5l",
+   "tipo": "chopp garrafa 1.5l",
+   "preco": 10.88,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-5-jpeg-6b089414263d0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Whiskey Jack Daniel's 1l",
+   "tipo": "whiskey 1l",
+   "preco": 146.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-5-jpeg-6b089414263d0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Whisky Johnnie Walker Red Label 1l",
+   "tipo": "whisky 1l",
+   "preco": 88.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-5-jpeg-6b089414263d0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Conhaque Dreher 900ml",
+   "tipo": "conhaque 900ml",
+   "preco": 20.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-5-jpeg-6b089414263d0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Cerveja Dubai 350ml",
+   "tipo": "cerveja lata 350ml",
+   "preco": 2.58,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-5-jpeg-6b089414263d0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Cerveja Estrella Galicia Lager 350ml",
+   "tipo": "cerveja lata 350ml",
+   "preco": 3.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-5-jpeg-6b089414263d0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Cerveja Therezópolis Gold 350ml",
+   "tipo": "cerveja lata 350ml",
+   "preco": 3.78,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-5-jpeg-6b089414263d0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Refrigerante Sukita Laranja 2l",
+   "tipo": "refrigerante 2l",
+   "preco": 6.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-5-jpeg-6b089414263d0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Cerveja Brahma Chopp c/18un 350ml",
+   "tipo": "cerveja lata 350ml",
+   "preco": 59.0,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-5-jpeg-6b089414263d0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Cerveja Skol Pilsen 350ml",
+   "tipo": "cerveja lata 350ml",
+   "preco": 3.45,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-5-jpeg-6b089414263d0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Néctar FrutoBenne 1l",
+   "tipo": "nectar 1l",
+   "preco": 5.58,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-5-jpeg-6b089414263d0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Suco Campo Largo 1,35l",
+   "tipo": "suco 1,35l",
+   "preco": 13.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-5-jpeg-6b089414263d0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Água de Coco Integral Campo Largo 900ml",
+   "tipo": "agua de coco 900ml",
+   "preco": 9.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-5-jpeg-6b089414263d0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Kit Seda Shampoo 300ml + Condicionador 190ml",
+   "tipo": "kit shampoo e condicionador",
+   "preco": 16.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-6-jpeg-6b08941574fdb.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Creme p/Pentear Seda Boom 1kg",
+   "tipo": "creme para pentear",
+   "preco": 26.98,
+   "unidade": "kg",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-6-jpeg-6b08941574fdb.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Óleo Capilar Beauty 40ml",
+   "tipo": "óleo capilar",
+   "preco": 16.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-6-jpeg-6b08941574fdb.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Shampoo Bozzano 325ml",
+   "tipo": "shampoo",
+   "preco": 19.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-6-jpeg-6b08941574fdb.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Gillette Venus Suave Aparato Depilatório c/4un",
+   "tipo": "aparelho depilatorio",
    "preco": 22.98,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-7-jpeg-6aff45be5e391.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-6-jpeg-6b08941574fdb.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Dove Desodorante Roll-on 50ml",
+   "tipo": "desodorante roll-on",
+   "preco": 9.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-6-jpeg-6b08941574fdb.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Bozzano Gel Fixador 300g",
+   "tipo": "gel fixador",
+   "preco": 17.48,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-6-jpeg-6b08941574fdb.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Sabonete Líquido Protex Baby 400ml",
+   "tipo": "sabonete liquido baby 400ml",
+   "preco": 21.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-6-jpeg-6b08941574fdb.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Sabonete Líquido Dihellen 1l (Exceto Antibac)",
+   "tipo": "sabonete liquido frutal 1l",
+   "preco": 15.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-6-jpeg-6b08941574fdb.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Hidratante Nivea Body Milk 400ml (Exceto Q10)",
+   "tipo": "hidratante corporal 400ml",
+   "preco": 19.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-6-jpeg-6b08941574fdb.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Talco Infantil Anjinho 100g",
+   "tipo": "talco infantil 100g",
+   "preco": 11.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-6-jpeg-6b08941574fdb.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Kit Escova Dental Condor Leve 3un Pague 2un",
+   "tipo": "kit escova dental",
+   "preco": 16.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-6-jpeg-6b08941574fdb.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Kit Escova Dental Oral-B Kids c/4un",
+   "tipo": "kit escova dental",
+   "preco": 17.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-6-jpeg-6b08941574fdb.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Roupa Íntima Mili Pants Vita Care P/M/G/XG c/16un",
+   "tipo": "roupa íntima 16un",
+   "preco": 49.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-6-jpeg-6b08941574fdb.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Creme Dental Oral-B 3D White Branqueamento 70g",
+   "tipo": "creme dental 70g",
+   "preco": 8.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-6-jpeg-6b08941574fdb.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Gel Dental Tandy 50g",
+   "tipo": "gel dental 50g",
+   "preco": 6.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-6-jpeg-6b08941574fdb.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Creme Dental Colgate Máxima Proteção 180g",
+   "tipo": "creme dental 180g",
+   "preco": 8.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-6-jpeg-6b08941574fdb.jpeg"
   },
   {
    "mercado": "combo",
    "produto": "Lava-roupas em Pó Brilhante 2,4kg",
-   "tipo": "lava-roupas polvo 2,4kg",
+   "tipo": "lava-roupas em pó 2,4kg",
    "preco": 18.98,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-7-jpeg-6aff45be5e391.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-7-jpeg-6b0894133d099.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Amaciante Concentrado Girando Sol 1l",
-   "tipo": "amaciante concentrado 1l",
-   "preco": 14.98,
+   "produto": "Lava-roupas em Pó Girando Sol 4kg",
+   "tipo": "lava-roupas em pó 4kg",
+   "preco": 23.98,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-7-jpeg-6aff45be5e391.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-7-jpeg-6b0894133d099.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Amaciante Mon Bijou 5l",
+   "produto": "Lava-roupas em Pó Surf 2,4kg",
+   "tipo": "lava-roupas em pó 2,4kg",
+   "preco": 16.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-7-jpeg-6b0894133d099.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Lava-roupas Líquido Omo 3l",
+   "tipo": "lava-roupas liquido 3l",
+   "preco": 29.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-7-jpeg-6b0894133d099.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Lava-roupas Líquido Girando Sol 3l",
+   "tipo": "lava-roupas liquido 3l",
+   "preco": 21.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-7-jpeg-6b0894133d099.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Amaciante Concentrado Girando Sol 1,5l",
+   "tipo": "amaciante concentrado 1,5l",
+   "preco": 20.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-7-jpeg-6b0894133d099.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Amaciante Girando Sol 5l",
    "tipo": "amaciante 5l",
-   "preco": 17.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-7-jpeg-6aff45be5e391.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Alvejante s/Cloro Girando Sol 2l",
-   "tipo": "alvejante 2l",
-   "preco": 10.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-7-jpeg-6aff45be5e391.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Água Sanitária Girando Sol 5l",
-   "tipo": "agua sanitaria 5l",
-   "preco": 11.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-7-jpeg-6aff45be5e391.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Desinfetante Girando Sol 5l",
-   "tipo": "desinfetante 5l",
    "preco": 16.98,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-7-jpeg-6aff45be5e391.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-7-jpeg-6b0894133d099.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Limpador Perfumado Concentrado Secar 120ml",
-   "tipo": "limpador concentrado 120ml",
+   "produto": "Limpador Veja Perfumado Concentrado 100ml",
+   "tipo": "limpador 100ml",
    "preco": 10.98,
    "unidade": "un",
-   "obs": "Levando mais sai R$ 7,32",
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-7-jpeg-6aff45be5e391.jpeg"
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-7-jpeg-6b0894133d099.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Limpador Cif Limpeza Pesada Profissional 2,4 kg",
-   "tipo": "limpador profissional",
-   "preco": 16.98,
+   "produto": "Pano Multiuso Alklin Rolo c/25un",
+   "tipo": "pano multiuso 25un",
+   "preco": 10.98,
+   "unidade": "cada",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-7-jpeg-6b0894133d099.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Jogo de Copos Nadir Light c/6un",
+   "tipo": "jogo de copos",
+   "preco": 26.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-8-jpeg-6b0894124d4db.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Tigela Marinex Facilita Vap 1l",
+   "tipo": "tigela",
+   "preco": 19.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-8-jpeg-6b0894124d4db.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Panela de Pressão Fuzipar Polida 4,5l",
+   "tipo": "panela de pressão",
+   "preco": 69.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-8-jpeg-6b0894124d4db.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Pipoqueira Elétrica Agratto Vermelha",
+   "tipo": "pipoqueira elétrica",
+   "preco": 99.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-8-jpeg-6b0894124d4db.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Ducha Zagone Moment Preta 7500W",
+   "tipo": "ducha 7500w",
+   "preco": 128.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-8-jpeg-6b0894124d4db.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Carvão Ki-Carvão Acácia Negra 8kg",
+   "tipo": "carvao 8kg",
+   "preco": 43.9,
    "unidade": "kg",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-7-jpeg-6aff45be5e391.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-8-jpeg-6b0894124d4db.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Inseticida Mortein Aero Mata Barata 360ml",
-   "tipo": "inseticida aerossol",
-   "preco": 18.98,
+   "produto": "Churrasqueira JN Média",
+   "tipo": "churrasqueira media",
+   "preco": 204.9,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-7-jpeg-6aff45be5e391.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Mop Condor c/Cabo PVA",
-   "tipo": "mop condor",
-   "preco": 49.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-7-jpeg-6aff45be5e391.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Papel Higiênico Mili 60m c/6un",
-   "tipo": "papel higienico mili",
-   "preco": 12.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-7-jpeg-6aff45be5e391.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Ventilador Ventsol Turbo c/6 Pás 40cm",
-   "tipo": "ventilador",
-   "preco": 139.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-8-jpeg-6aff45b74d087.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-8-jpeg-6b0894124d4db.jpeg"
   },
   {
    "mercado": "combo",
    "produto": "Espremedor Agratto 700ml",
-   "tipo": "espremedor",
+   "tipo": "espremedor 700ml",
    "preco": 69.9,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-8-jpeg-6aff45b74d087.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-8-jpeg-6b0894124d4db.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Chaleira Elétrica Koti Preta 1,5l",
-   "tipo": "chaleira eletrica",
-   "preco": 59.9,
+   "produto": "Guarda-sol Mor Poliéster Alumínio Articulado Estampas Diversas 2,40m",
+   "tipo": "guarda-sol 2,40m",
+   "preco": 174.0,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-8-jpeg-6aff45b74d087.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Taça Cristal Sense p/Espumante 220ml/ Vinho 450ml/ Água 540ml",
-   "tipo": "taça de vinho",
-   "preco": 17.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-8-jpeg-6aff45b74d087.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Copo Nadir p/Cerveja Boteco 220ml",
-   "tipo": "copo de cerveja",
-   "preco": 2.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-8-jpeg-6aff45b74d087.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Tigela Americana Nadir c/Tampa 600ml",
-   "tipo": "tigela com tampa",
-   "preco": 9.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-8-jpeg-6aff45b74d087.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Frigideira Wok Tramontina Loreto 28cm",
-   "tipo": "frigideira wok",
-   "preco": 58.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-8-jpeg-6aff45b74d087.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Carvão Ki-Carvão Acácia Negra Premium 4kg",
-   "tipo": "carvao 4kg",
-   "preco": 26.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-8-jpeg-6aff45b74d087.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Churrasqueira c/Tampa Ki-Chef",
-   "tipo": "churrasqueira",
-   "preco": 162.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-8-jpeg-6aff45b74d087.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Grelha Super Grill Mor n°3",
-   "tipo": "grelha",
-   "preco": 41.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-8-jpeg-6aff45b74d087.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Grelha Tela Moeda Inox Ki-Chef 48x50cm",
-   "tipo": "grelha tela",
-   "preco": 119.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-8-jpeg-6aff45b74d087.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Tapetes Higiênicos Turma do Pinicão c/7un",
-   "tipo": "tapete higienico",
-   "preco": 15.48,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-8-jpeg-6aff45b74d087.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-8-jpeg-6b0894124d4db.jpeg"
   },
   {
    "mercado": "combo",
@@ -1738,248 +2008,458 @@
    "preco": 194.0,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-8-jpeg-6aff45b74d087.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-8-jpeg-6b0894124d4db.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Guarda-sol Mor Poliéster Alumínio Articulado Estampas Diversas 2,40m",
-   "tipo": "guarda-sol",
-   "preco": 174.0,
+   "produto": "Ventilador de Coluna Ventisol c/6 Pás 50cm",
+   "tipo": "ventilador coluna 50cm",
+   "preco": 209.9,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-8-jpeg-6aff45b74d087.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-8-jpeg-6b0894124d4db.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Flutuador Espaguete Mar Cristal",
-   "tipo": "flutuador espaguete",
-   "preco": 4.98,
+   "produto": "Ventilador Ventisol Turbo c/6 Pás 40cm",
+   "tipo": "ventilador mesa 40cm",
+   "preco": 139.9,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-8-jpeg-6aff45b74d087.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-8-jpeg-6b0894124d4db.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Pegg Original 7kg",
-   "tipo": "ração para cães 7kg",
-   "preco": 31.9,
-   "unidade": "un",
+   "produto": "Pilha Duracell Optimum AA ou AAA c/4un",
+   "tipo": "pilha aa ou aaa 4un",
+   "preco": 28.9,
+   "unidade": "cada",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-8-jpeg-6aff45b74d087.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-8-jpeg-6b0894124d4db.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Cats Club Areia Higiênica 4kg",
-   "tipo": "areia higiênica para gatos 4kg",
-   "preco": 9.98,
-   "unidade": "un",
+   "produto": "Tapetes Higiênicos Turma do Pinicão c/7un",
+   "tipo": "tapete higienico pet 7un",
+   "preco": 15.48,
+   "unidade": "cada",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-8-jpeg-6aff45b74d087.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-8-jpeg-6b0894124d4db.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Linguiça Toscana Mini Pamplona Congelada 2,5kg",
-   "tipo": "linguica congelada 2.5kg",
-   "preco": 43.9,
+   "produto": "Areia Higiênica Pipicat Classic 12kg",
+   "tipo": "areia higienica pet 12kg",
+   "preco": 35.9,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-9-jpeg-6aff45bd83e19.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-8-jpeg-6b0894124d4db.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Linguiça Tipo Calabresa Seara 2,5kg",
-   "tipo": "linguica calabresa 2.5kg",
-   "preco": 54.9,
+   "produto": "Ração Champ 85g ou Kitekat 70g",
+   "tipo": "racao pet sachet",
+   "preco": 2.18,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-9-jpeg-6aff45bd83e19.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-8-jpeg-6b0894124d4db.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Ração p/Cães Champ 900g",
+   "tipo": "racao cachorro adulto",
+   "preco": 9.48,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-8-jpeg-6b0894124d4db.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Ração p/Gatos Kitekat 900g",
+   "tipo": "racao gato sachet",
+   "preco": 9.48,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-8-jpeg-6b0894124d4db.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Ração p/Cães Pedigree Leve 10,1kg Pague 9kg",
+   "tipo": "racao cachorro leve",
+   "preco": 88.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-8-jpeg-6b0894124d4db.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Linguiça Suína Sadia Congelada 5kg",
+   "tipo": "linguica congelada 5kg",
+   "preco": 79.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-9-jpeg-6b089410581ce.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Salsicha Hot Dog Seara 3kg",
+   "tipo": "salsicha hot dog 3kg",
+   "preco": 24.9,
+   "unidade": "kg",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-9-jpeg-6b089410581ce.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Bacon Seara Pedaço kg",
+   "tipo": "bacon pedaço kg",
+   "preco": 35.9,
+   "unidade": "kg",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-9-jpeg-6b089410581ce.jpeg"
   },
   {
    "mercado": "combo",
    "produto": "Mini Chicken Perdigão 1kg",
    "tipo": "mini chicken 1kg",
    "preco": 17.98,
+   "unidade": "kg",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-9-jpeg-6b089410581ce.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Coxinhas de Frango Tigrão Congeladas 1kg",
+   "tipo": "coxinha congelada 1kg",
+   "preco": 19.98,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-9-jpeg-6aff45bd83e19.jpeg"
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-9-jpeg-6b089410581ce.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Massa de Pastel Da Boa 2kg",
+   "tipo": "massa de pastel 2kg",
+   "preco": 21.78,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-9-jpeg-6b089410581ce.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Óleo de Algodão Soya 15,8l",
+   "tipo": "oleo de algodao 15,8l",
+   "preco": 195.0,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-9-jpeg-6b089410581ce.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Margarina Sofiteli 75% Lipídios 15kg",
+   "tipo": "margarina 15kg",
+   "preco": 131.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-9-jpeg-6b089410581ce.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Milho Verde Oderich 2kg",
+   "tipo": "milho verde lata 2kg",
+   "preco": 26.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-9-jpeg-6b089410581ce.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Extrato Tomate Elefante 850g",
+   "tipo": "extrato de tomate lata 850g",
+   "preco": 13.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-9-jpeg-6b089410581ce.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Molho de Tomate Fugini Tradicional 1,020kg",
+   "tipo": "molho de tomate sachê 1020g",
+   "preco": 7.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-9-jpeg-6b089410581ce.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Amido de Milho APTI 1kg",
+   "tipo": "amido de milho 1kg",
+   "preco": 9.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-9-jpeg-6b089410581ce.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Bombom Neugebauer Amor Carioca 500g",
+   "tipo": "bombom 500g",
+   "preco": 24.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-9-jpeg-6b089410581ce.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Amendoim Torrado Guimarães 1,008kg",
+   "tipo": "amendoim torrado 1kg",
+   "preco": 19.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-9-jpeg-6b089410581ce.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Suco de Laranja Naturatty 2,8l",
+   "tipo": "suco de laranja 2,8l",
+   "preco": 19.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-9-jpeg-6b089410581ce.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Açúcar União Premium Sachê 5g/400un",
+   "tipo": "acucar sachete 5g",
+   "preco": 18.78,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-9-jpeg-6b089410581ce.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Toalha Papel Maxim Stylus c/100un",
+   "tipo": "toalha papel 100un",
+   "preco": 3.58,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-9-jpeg-6b089410581ce.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Assadeira Marinex Retangular c/Tampa Funda 5,3l",
+   "tipo": "assadeira retangular 5,3l",
+   "preco": 44.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-9-jpeg-6b089410581ce.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Sabonete Siene 85g",
+   "tipo": "sabonete 85g",
+   "preco": 1.58,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-12-04",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-27-11-9-jpeg-6b089410581ce.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Bombom Lacta Sonho de Valsa e Ouro Branco 220g ou Lacta Favoritos 250,6g",
+   "tipo": "bombom lacta",
+   "preco": 9.98,
+   "unidade": "cada",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-1-jpeg-6b0889875bc9a.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Aurogets Aurora Crocante 900g",
+   "tipo": "aurogets 900g",
+   "preco": 12.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-2-jpeg-6b0889841b4d0.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Salsicha Nobre Resfriada 3kg",
+   "tipo": "salsicha resfriada 3kg",
+   "preco": 16.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-2-jpeg-6b0889841b4d0.jpeg"
   },
   {
    "mercado": "combo",
    "produto": "Salsicha Perdigão Hot Dog 2,8kg",
    "tipo": "salsicha hot dog 2.8kg",
-   "preco": 29.9,
+   "preco": 32.98,
    "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-9-jpeg-6aff45bd83e19.jpeg"
+   "obs": "25% DE DESCONTO",
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-2-jpeg-6b0889841b4d0.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Anéis de Cebola Tajá Foods 1,1kg",
-   "tipo": "anéis de cebola 1.1kg",
-   "preco": 22.98,
+   "produto": "Linguiça Tipo Calabresa Sadia ou Perdigão 2,5kg",
+   "tipo": "linguica calabresa 2.5kg",
+   "preco": 49.9,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-9-jpeg-6aff45bd83e19.jpeg"
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-2-jpeg-6b0889841b4d0.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Chipa de Queijo Essência Mineira 700g",
-   "tipo": "chipa de queijo 700g",
-   "preco": 9.98,
+   "produto": "Pão de Queijo São Geraldo 800g",
+   "tipo": "pao de queijo 800g",
+   "preco": 7.98,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-9-jpeg-6aff45bd83e19.jpeg"
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-3-jpeg-6b088985ad8d5.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Massa p/Pastel em Rolo La Nonna 2kg",
-   "tipo": "massa para pastel 2kg",
+   "produto": "Steak Empanado de Frango Nobre 100g",
+   "tipo": "steak empanado frango 100g",
+   "preco": 0.88,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-3-jpeg-6b088985ad8d5.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Pão de Queijo Essência Mineira 1kg",
+   "tipo": "pao de queijo 1kg",
+   "preco": 7.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-3-jpeg-6b088985ad8d5.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Requeijão Tirolez 400g",
+   "tipo": "requeijao cremoso 400g",
+   "preco": 7.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-3-jpeg-6b088985ad8d5.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Nata Della Vita 300g",
+   "tipo": "nata 300g",
+   "preco": 6.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-4-jpeg-6b0889895b0c5.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Suco Suq Laranja 2,5l",
+   "tipo": "suco de laranja 2.5l",
    "preco": 19.98,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-9-jpeg-6aff45bd83e19.jpeg"
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-4-jpeg-6b0889895b0c5.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Margarina Claybom 1kg",
-   "tipo": "margarina 1kg",
-   "preco": 10.98,
+   "produto": "Sorvete Paviloco Gelato 1,5l",
+   "tipo": "sorvete gelato 1.5l",
+   "preco": 29.9,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-9-jpeg-6aff45bd83e19.jpeg"
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-4-jpeg-6b0889895b0c5.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Pepino Estrela do Vale 1,8kg",
-   "tipo": "pepino em conserva 1.8kg",
-   "preco": 31.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-9-jpeg-6aff45bd83e19.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Passata Rustica Fugini Sachê 1,7kg",
-   "tipo": "passata rustica 1.7kg",
-   "preco": 14.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-9-jpeg-6aff45bd83e19.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Milho Verde Oderich 2kg",
-   "tipo": "milho verde em lata 2kg",
-   "preco": 26.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-9-jpeg-6aff45bd83e19.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Milho Pipoca Kanty Premium 1kg",
-   "tipo": "milho pipoca 1kg",
-   "preco": 6.28,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-9-jpeg-6aff45bd83e19.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Gordura Composta de Soja e Palma Fry 400 Coamo 14,5kg",
-   "tipo": "gordura vegetal 14,5kg",
-   "preco": 167.0,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-9-jpeg-6aff45bd83e19.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Mistura p/Pão Francês Maria Inês 25kg",
-   "tipo": "mistura para pão 25kg",
-   "preco": 64.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-9-jpeg-6aff45bd83e19.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Cobertura Fracionada Harald 1,01kg",
-   "tipo": "cobertura fracionada 1,01kg",
-   "preco": 26.98,
-   "unidade": "cada",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-9-jpeg-6aff45bd83e19.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Paçoquita Rolha Santa Helena 550g",
-   "tipo": "paçoca 550g",
-   "preco": 18.98,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-9-jpeg-6aff45bd83e19.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Granola Jasmine 1kg",
-   "tipo": "granola 1kg",
-   "preco": 28.98,
-   "unidade": "cada",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-9-jpeg-6aff45bd83e19.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Papel Toalha Mili Gran Chef c/200un",
-   "tipo": "papel toalha 200un",
-   "preco": 6.98,
-   "unidade": "cada",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-9-jpeg-6aff45bd83e19.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Caldeirão Tramontina Turim Ref.:20263",
-   "tipo": "caldeirao",
-   "preco": 144.9,
-   "unidade": "cada",
-   "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_image/encarte-combo-20-11-9-jpeg-6aff45bd83e19.jpeg"
-  },
-  {
-   "mercado": "combo",
-   "produto": "Sorvete Leiffer 3L",
+   "produto": "Sorvete Leiffer Marta Rocha 3l",
    "tipo": "sorvete 3l",
    "preco": 19.9,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-26-11-jpeg-6b074251b30cd.jpeg"
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-4-jpeg-6b0889895b0c5.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Sorvete Kibon Cremosissimo 1,5l",
+   "tipo": "sorvete 1.5l",
+   "preco": 18.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-4-jpeg-6b0889895b0c5.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Whisky Johnnie Walker Red Label 1l",
+   "tipo": "whisky 1l",
+   "preco": 79.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-5-jpeg-6b08898ac8a16.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Whisky Ballantines Finest 1l",
+   "tipo": "whisky 1l",
+   "preco": 69.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-5-jpeg-6b08898ac8a16.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Cerveja Heineken 269ml",
+   "tipo": "cerveja lata 269ml",
+   "preco": 2.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-5-jpeg-6b08898ac8a16.jpeg"
   },
   {
    "mercado": "combo",
@@ -1988,18 +2468,248 @@
    "preco": 2.98,
    "unidade": "un",
    "obs": null,
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-26-11-jpeg-6b074251b30cd.jpeg"
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-5-jpeg-6b08898ac8a16.jpeg"
   },
   {
    "mercado": "combo",
-   "produto": "Caixa termica Mor Cores Diversas 18l",
-   "tipo": "caixa termica 18l",
+   "produto": "Chocolate Lacta Barra 80g/90g/98g/104g",
+   "tipo": "chocolate barra",
+   "preco": 6.48,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-5-jpeg-6b08898ac8a16.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Achocolatado Nescau Leve 350g Pague 330g",
+   "tipo": "achocolatado em po",
+   "preco": 7.58,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-5-jpeg-6b08898ac8a16.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Super Coffee 220g",
+   "tipo": "suplemento alimentar cafeina army",
+   "preco": 106.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-6-jpeg-6b08898a1850f.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Whey Protein Max Titanium 900g",
+   "tipo": "whey protein",
+   "preco": 92.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-6-jpeg-6b08898a1850f.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Salgadinho Doritos ou Lays 257g ou Ruffles 270g",
+   "tipo": "salgadinho 250g",
+   "preco": 12.48,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-6-jpeg-6b08898a1850f.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Batata Palha D'Nadinha 800g",
+   "tipo": "batata palha 800g",
+   "preco": 14.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-6-jpeg-6b08898a1850f.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Maionese Hellmann's Tradicional Bisnaga 750g ou Sachê 800g",
+   "tipo": "maionese 750g",
+   "preco": 12.48,
+   "unidade": "un",
+   "obs": "50% de desconto",
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-6-jpeg-6b08898a1850f.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Farofa Yoki Caseiríssima 200g",
+   "tipo": "farofa 200g",
+   "preco": 7.28,
+   "unidade": "un",
+   "obs": "40% de desconto",
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-6-jpeg-6b08898a1850f.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Toalhas de Papel Maxim Especiale c/400un",
+   "tipo": "toalha de papel 400un",
+   "preco": 13.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-6-jpeg-6b08898a1850f.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Extrato Tomate Elefante 300g",
+   "tipo": "extrato de tomate 300g",
+   "preco": 4.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-6-jpeg-6b08898a1850f.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Jogo de Panelas c/Indução Brinox Granada c/5 Peças",
+   "tipo": "jogo de panelas",
+   "preco": 399.0,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-7-jpeg-6b0889888dc24.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Taça Cristal Sense p/Espumante 220ml/Vinho 450ml/Água 540ml",
+   "tipo": "taça de cristal",
+   "preco": 14.9,
+   "unidade": "un",
+   "obs": "cada",
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-7-jpeg-6b0889888dc24.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Liquidificador Agratto 850W",
+   "tipo": "liquidificador",
+   "preco": 89.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-7-jpeg-6b0889888dc24.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Mixer Agratto Super",
+   "tipo": "mixer",
+   "preco": 64.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-7-jpeg-6b0889888dc24.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Carvão Ki-Carvão Acácia Negra 5kg",
+   "tipo": "carvão 5kg",
+   "preco": 29.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-7-jpeg-6b0889888dc24.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Churrasqueira Montana Mor 54x35x64cm",
+   "tipo": "churrasqueira",
+   "preco": 76.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-7-jpeg-6b0889888dc24.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Cores Diversas 18l",
+   "tipo": "balde 18l",
    "preco": 54.9,
    "unidade": "un",
-   "obs": "Quant.:500",
-   "valido_ate": "2026-11-26",
-   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/pre-black-combo-26-11-jpeg-6b074251b30cd.jpeg"
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-7-jpeg-6b0889888dc24.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Conjunto de Facas Brinox Cross Preto em Aço Inox c/6 Peças",
+   "tipo": "conjunto de facas",
+   "preco": 39.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-8-jpeg-6b088984e7780.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Talher ou Pegador de Silicone Brinox Diversos",
+   "tipo": "talher de silicone",
+   "preco": 9.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-8-jpeg-6b088984e7780.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Ducha Eletrônica Lorenzetti Loren Shower",
+   "tipo": "chuveiro",
+   "preco": 93.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-8-jpeg-6b088984e7780.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Sandália Havaianas Coleção Top Lisa Par nº33 ao nº46",
+   "tipo": "sandalia",
+   "preco": 19.98,
+   "unidade": "cada",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-8-jpeg-6b088984e7780.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Ração Monello Tradicional 7kg",
+   "tipo": "racao para caes 7kg",
+   "preco": 89.9,
+   "unidade": "un",
+   "obs": "40% de desconto",
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-8-jpeg-6b088984e7780.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Varal de Chão c/Abas Maxi Mor",
+   "tipo": "varal de chão",
+   "preco": 69.98,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-9-jpeg-6b08898684e5b.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Amaciante Concentrado Downy Sachê 1,2L",
+   "tipo": "amaciante concentrado sachê",
+   "preco": 19.98,
+   "unidade": "cada",
+   "obs": "Limite de 4 por cliente",
+   "valido_ate": "2026-11-27",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/encarte-black-combo-27-11-9-5-jpeg-6b0889834c7bf.jpeg"
   },
   {
    "mercado": "combo",
@@ -2100,6 +2810,86 @@
    "obs": null,
    "valido_ate": "2026-11-29",
    "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/frutas-secas-combo-16-11-jpeg-6af76fc4b8fcc.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Orquídea Phalaenopsis Pote 12",
+   "tipo": "orquidea pote 12",
+   "preco": 44.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-29",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-27-11-jpeg-6b089389f0e7c.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Orquídea Phalaenopsis Pote 6",
+   "tipo": "orquidea pote 6",
+   "preco": 19.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-29",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-27-11-jpeg-6b089389f0e7c.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Poinstia Pote 14",
+   "tipo": "planta vaso 14cm",
+   "preco": 24.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-29",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-27-11-jpeg-6b089389f0e7c.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Sementes Feltrin",
+   "tipo": "sementes",
+   "preco": 7.48,
+   "unidade": "cada",
+   "obs": null,
+   "valido_ate": "2026-11-29",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-27-11-jpeg-6b089389f0e7c.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Zamioculcas Pote 17",
+   "tipo": "planta de interior",
+   "preco": 41.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-29",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-27-11-jpeg-6b089389f0e7c.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Peperômia Scandens Cuia 21",
+   "tipo": "planta pendente cuia 21",
+   "preco": 27.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-29",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-27-11-jpeg-6b089389f0e7c.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Jiboia Verde Pendente Cuia 21",
+   "tipo": "planta pendente cuia 21",
+   "preco": 25.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-29",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-27-11-jpeg-6b089389f0e7c.jpeg"
+  },
+  {
+   "mercado": "combo",
+   "produto": "Samambaia Americana Cuia 21",
+   "tipo": "planta pendente cuia 21",
+   "preco": 31.9,
+   "unidade": "un",
+   "obs": null,
+   "valido_ate": "2026-11-29",
+   "fonte": "https://www.comboatacadista.com.br/upload/offer_diverse_image/primavera-combo-27-11-jpeg-6b089389f0e7c.jpeg"
   }
  ]
 }
