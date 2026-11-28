@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-28T07:00:30-03:00",
+ "atualizado": "2026-11-28T11:00:09-03:00",
  "ofertas": [
   {
    "mercado": "fatima",
@@ -980,16 +980,6 @@
    "obs": null,
    "valido_ate": "2026-12-02",
    "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/XVqdOK8PON1PLdz2VtAB5VRQMTHWLIF9kKWopKyr.png"
-  },
-  {
-   "mercado": "fatima",
-   "produto": "Frango inteiro assado",
-   "tipo": "frango inteiro",
-   "preco": 29.9,
-   "unidade": "un",
-   "obs": null,
-   "valido_ate": "2026-11-28",
-   "fonte": "https://fatimasupermercados.com.br/storage/media/2026/11/gBNmhiV5pld1H2QYH6epXZD8q9gb7OHTtgr0sMjF.png"
   },
   {
    "mercado": "fatima",
